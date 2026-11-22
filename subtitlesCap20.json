@@ -1,0 +1,5047 @@
+{
+  "chapterId": 20,
+  "expectedCount": 720,
+  "isCompleteOfficialImport": true,
+  "lines": [
+    {
+      "id": "cap20-line-1",
+      "start": 0,
+      "timeLabel": "0:00",
+      "text": "¿Qué más debería de que andan hablando?",
+      "hy": "Ինչի՞ մասին եք խոսում։"
+    },
+    {
+      "id": "cap20-line-2",
+      "start": 2,
+      "timeLabel": "0:02",
+      "text": "De una chorra.",
+      "hy": "Մի գողի մասին։"
+    },
+    {
+      "id": "cap20-line-3",
+      "start": 4,
+      "timeLabel": "0:04",
+      "text": "Bueno, un momentito, si empezamos de nuevo con eso, me toma el buque, ¿eh?",
+      "hy": "Լավ, մի վայրկյան, եթե նորից դրանով ենք սկսում, ես հեռանում եմ, հա՞։"
+    },
+    {
+      "id": "cap20-line-4",
+      "start": 7,
+      "timeLabel": "0:07",
+      "text": "No, tranqui, gracias, sabemos que no tenemos nada de que ver.",
+      "hy": "Ո՛չ, հանգիստ, շնորհակալություն, գիտենք, որ ոչ մի կապ չունես։"
+    },
+    {
+      "id": "cap20-line-5",
+      "start": 8,
+      "timeLabel": "0:08",
+      "text": "No, sabemos, sos inocente como una laucha que anda por la cocina, que las persigue por todo lado, pobre.",
+      "hy": "Ո՛չ, գիտենք՝ դու անմեղ ես, ինչպես խոհանոցում վազվզող մկնիկը, որին ամեն կողմից հալածում են, խեղճը։"
+    },
+    {
+      "id": "cap20-line-6",
+      "start": 13,
+      "timeLabel": "0:13",
+      "text": "¿Qué es eso con la comparación?",
+      "hy": "Այդ ի՞նչ համեմատություն է։"
+    },
+    {
+      "id": "cap20-line-7",
+      "start": 14,
+      "timeLabel": "0:14",
+      "text": "No, no, no,",
+      "hy": "Ո՛չ, ո՛չ, ո՛չ։"
+    },
+    {
+      "id": "cap20-line-8",
+      "start": 27,
+      "timeLabel": "0:27",
+      "text": "¡Ita, no, no, no, no!",
+      "hy": "Այո՛, ո՛չ, ո՛չ, ո՛չ, ո՛չ։"
+    },
+    {
+      "id": "cap20-line-9",
+      "start": 32,
+      "timeLabel": "0:32",
+      "text": "Entiendo a menos",
+      "hy": "Ավելի ու ավելի քիչ եմ հասկանում։"
+    },
+    {
+      "id": "cap20-line-10",
+      "start": 65,
+      "timeLabel": "1:05",
+      "text": "averiguar quién es el novio de esta mucada",
+      "hy": "Պարզել, թե ով է այս աղախնի ընկերը։"
+    },
+    {
+      "id": "cap20-line-11",
+      "start": 80,
+      "timeLabel": "1:20",
+      "text": "discutir, yo les voy a explicar.",
+      "hy": "Մի՛ վիճեք, ես ձեզ կբացատրեմ։"
+    },
+    {
+      "id": "cap20-line-12",
+      "start": 87,
+      "timeLabel": "1:27",
+      "text": "Claro.",
+      "hy": "Իհարկե։"
+    },
+    {
+      "id": "cap20-line-13",
+      "start": 88,
+      "timeLabel": "1:28",
+      "text": "Si.",
+      "hy": "Այո՛։"
+    },
+    {
+      "id": "cap20-line-14",
+      "start": 88,
+      "timeLabel": "1:28",
+      "text": "No.",
+      "hy": "Ո՛չ։"
+    },
+    {
+      "id": "cap20-line-15",
+      "start": 96,
+      "timeLabel": "1:36",
+      "text": "y no se puede dar a fielo.",
+      "hy": "Եվ չի կարելի վստահել / տալ։"
+    },
+    {
+      "id": "cap20-line-16",
+      "start": 103,
+      "timeLabel": "1:43",
+      "text": "¿Estás teniendo rosas?",
+      "hy": "Վարդե՞ր ես պահել / ստացել։"
+    },
+    {
+      "id": "cap20-line-17",
+      "start": 103,
+      "timeLabel": "1:43",
+      "text": "No, no, no, Sí, yo le regalé la prueba, pero de ahí hacer el novio.",
+      "hy": "Ո՛չ, ո՛չ, ո՛չ, այո՛, ես նրան ծաղիկ նվիրեցի, բայց դրանից ընկեր լինելը..."
+    },
+    {
+      "id": "cap20-line-18",
+      "start": 105,
+      "timeLabel": "1:45",
+      "text": "Son dos cosas totalmente diferentes, mamá.",
+      "hy": "Երկու լրիվ տարբեր բաներ են, մայրի՛կ։"
+    },
+    {
+      "id": "cap20-line-19",
+      "start": 106,
+      "timeLabel": "1:46",
+      "text": "¡Para!",
+      "hy": "Կանգնի՛ր։"
+    },
+    {
+      "id": "cap20-line-20",
+      "start": 109,
+      "timeLabel": "1:49",
+      "text": "porque sino que...",
+      "hy": "Որովհետև թե չէ..."
+    },
+    {
+      "id": "cap20-line-21",
+      "start": 112,
+      "timeLabel": "1:52",
+      "text": "Mili",
+      "hy": "Միլի՛։"
+    },
+    {
+      "id": "cap20-line-22",
+      "start": 118,
+      "timeLabel": "1:58",
+      "text": "de seguridad.",
+      "hy": "Անվտանգության։"
+    },
+    {
+      "id": "cap20-line-23",
+      "start": 291,
+      "timeLabel": "4:51",
+      "text": "Es un mentiraso de la peor",
+      "hy": "Ամենավատ տեսակի ստախոսն է"
+    },
+    {
+      "id": "cap20-line-24",
+      "start": 295,
+      "timeLabel": "4:55",
+      "text": "y al final.",
+      "hy": "վերջիվերջո։"
+    },
+    {
+      "id": "cap20-line-25",
+      "start": 297,
+      "timeLabel": "4:57",
+      "text": "Oye, soy presenta de la ropa interior.",
+      "hy": "Լսի՛ր, այսօր ներքնազգեստի ցուցադրությունն է։"
+    },
+    {
+      "id": "cap20-line-26",
+      "start": 299,
+      "timeLabel": "4:59",
+      "text": "Bueno, por lo que he escuchado por ahí, no solamente la presenté.",
+      "hy": "Դե, ինչպես լսել եմ, ոչ միայն ներկայացնում ես։"
+    },
+    {
+      "id": "cap20-line-27",
+      "start": 306,
+      "timeLabel": "5:06",
+      "text": "¿Por",
+      "hy": "Ինչո՞ւ"
+    },
+    {
+      "id": "cap20-line-28",
+      "start": 308,
+      "timeLabel": "5:08",
+      "text": "qué?",
+      "hy": "ինչո՞ւ։"
+    },
+    {
+      "id": "cap20-line-29",
+      "start": 308,
+      "timeLabel": "5:08",
+      "text": "¿Por qué?",
+      "hy": "Ինչո՞ւ։"
+    },
+    {
+      "id": "cap20-line-30",
+      "start": 308,
+      "timeLabel": "5:08",
+      "text": "¿Por qué Victoria vas a estar espectacular?",
+      "hy": "Որովհետև Վիկտորիա, դու հիասքանչ ես լինելու։"
+    },
+    {
+      "id": "cap20-line-31",
+      "start": 312,
+      "timeLabel": "5:12",
+      "text": "Vas a ir o no, dale.",
+      "hy": "Գալո՞ւ ես, թե՞ ոչ, դե ասա։"
+    },
+    {
+      "id": "cap20-line-32",
+      "start": 313,
+      "timeLabel": "5:13",
+      "text": "No sé.",
+      "hy": "Չգիտեմ։"
+    },
+    {
+      "id": "cap20-line-33",
+      "start": 314,
+      "timeLabel": "5:14",
+      "text": "No, no me digas, no sé.",
+      "hy": "Ո՛չ, ինձ մի՛ ասա «չգիտեմ»։"
+    },
+    {
+      "id": "cap20-line-34",
+      "start": 315,
+      "timeLabel": "5:15",
+      "text": "No sé, Tengo compromiso si son todos impostarregables.",
+      "hy": "Չգիտեմ, պարտավորություններ ունեմ ու բոլորը անհետաձգելի են։"
+    },
+    {
+      "id": "cap20-line-35",
+      "start": 318,
+      "timeLabel": "5:18",
+      "text": "Siempre, bueno, me puedes hacer eso.",
+      "hy": "Միշտ այդպես՝ չես կարող ինձ հետ այդպես վարվել։"
+    },
+    {
+      "id": "cap20-line-36",
+      "start": 319,
+      "timeLabel": "5:19",
+      "text": "O sea, es bien malo y tenés que estar conmigo.",
+      "hy": "Շատ վատն ես ու պետք է ինձ հետ լինես։"
+    },
+    {
+      "id": "cap20-line-37",
+      "start": 321,
+      "timeLabel": "5:21",
+      "text": "En algún momento voy a poder demostrarte muy buena hermandad para contigo.",
+      "hy": "Ինչ-որ պահի կկարողանամ քեզ իմ լավ եղբայրական վերաբերմունքը ցույց տալ։"
+    },
+    {
+      "id": "cap20-line-38",
+      "start": 324,
+      "timeLabel": "5:24",
+      "text": "¡Ahí basta de cargarme!",
+      "hy": "Վե՛րջ, բավական է ինձ ձեռ առնես։"
+    },
+    {
+      "id": "cap20-line-39",
+      "start": 330,
+      "timeLabel": "5:30",
+      "text": "Chica, chica, chica.",
+      "hy": "Աղջիկնե՛ր, աղջիկնե՛ր, աղջիկնե՛ր։"
+    },
+    {
+      "id": "cap20-line-40",
+      "start": 335,
+      "timeLabel": "5:35",
+      "text": "¿No veías que ellas también van a desfitar?",
+      "hy": "Չէի՞ր տեսել, որ նրանք էլ են ցուցադրությանը մասնակցելու։"
+    },
+    {
+      "id": "cap20-line-41",
+      "start": 337,
+      "timeLabel": "5:37",
+      "text": "Sí.",
+      "hy": "Այո՛։"
+    },
+    {
+      "id": "cap20-line-42",
+      "start": 337,
+      "timeLabel": "5:37",
+      "text": "¿Vas a ir a darnos?",
+      "hy": "Գալո՞ւ ես մեզ տեսնելու։"
+    },
+    {
+      "id": "cap20-line-43",
+      "start": 339,
+      "timeLabel": "5:39",
+      "text": "No, mi hermano no puede...",
+      "hy": "Ո՛չ, եղբայրս չի կարող..."
+    },
+    {
+      "id": "cap20-line-44",
+      "start": 340,
+      "timeLabel": "5:40",
+      "text": "Sí, sí, sí, yo voy a ir encantado.",
+      "hy": "Այո՛, այո՛, այո՛, սիրով կգամ։"
+    },
+    {
+      "id": "cap20-line-45",
+      "start": 342,
+      "timeLabel": "5:42",
+      "text": "Ay, qué bueno, qué bueno.",
+      "hy": "Ա՜խ, ինչ լավ է, ինչ լավ է։"
+    },
+    {
+      "id": "cap20-line-46",
+      "start": 346,
+      "timeLabel": "5:46",
+      "text": "A mi me ha dado que no tiene novia, se llama Andrea.",
+      "hy": "Ինձ ասել են, որ ընկերուհի ունի, անունը Անդրեա է։"
+    },
+    {
+      "id": "cap20-line-47",
+      "start": 348,
+      "timeLabel": "5:48",
+      "text": "A veces soy desgraciado.",
+      "hy": "Երբեմն անտանելի եմ։"
+    },
+    {
+      "id": "cap20-line-48",
+      "start": 350,
+      "timeLabel": "5:50",
+      "text": "Bueno, de todos modos, te quiero en el público tirándome buena onda, por favor.",
+      "hy": "Լավ, ամեն դեպքում քեզ դահլիճում եմ ուզում՝ ինձ դրական էներգիա ուղարկելիս, խնդրում եմ։"
+    },
+    {
+      "id": "cap20-line-49",
+      "start": 353,
+      "timeLabel": "5:53",
+      "text": "Me siento afortunada.",
+      "hy": "Ինձ բախտավոր եմ զգում։"
+    },
+    {
+      "id": "cap20-line-50",
+      "start": 354,
+      "timeLabel": "5:54",
+      "text": "Cortá la nena, te dije que tiene novia.",
+      "hy": "Վերջացրո՛ւ, աղջի՛կ, ասացի՝ ընկերուհի ունի։"
+    },
+    {
+      "id": "cap20-line-51",
+      "start": 357,
+      "timeLabel": "5:57",
+      "text": "Bueno, ¿estás nerviosa?",
+      "hy": "Դե, լարվա՞ծ ես։"
+    },
+    {
+      "id": "cap20-line-52",
+      "start": 358,
+      "timeLabel": "5:58",
+      "text": "No.",
+      "hy": "Ո՛չ։"
+    },
+    {
+      "id": "cap20-line-53",
+      "start": 359,
+      "timeLabel": "5:59",
+      "text": "No, no, ¡Vení, títela estética!",
+      "hy": "Ո՛չ, ո՛չ, արի՛, վայելիր պահը։"
+    },
+    {
+      "id": "cap20-line-54",
+      "start": 361,
+      "timeLabel": "6:01",
+      "text": "¡Voví!",
+      "hy": "Բոբի՛։"
+    },
+    {
+      "id": "cap20-line-55",
+      "start": 362,
+      "timeLabel": "6:02",
+      "text": "¡Hola!",
+      "hy": "Բարև։"
+    },
+    {
+      "id": "cap20-line-56",
+      "start": 363,
+      "timeLabel": "6:03",
+      "text": "¿Qué tal, buenas?",
+      "hy": "Ինչպե՞ս եք, բարև ձեզ։"
+    },
+    {
+      "id": "cap20-line-57",
+      "start": 363,
+      "timeLabel": "6:03",
+      "text": "¿Cómo vas?",
+      "hy": "Ինչպե՞ս ես։"
+    },
+    {
+      "id": "cap20-line-58",
+      "start": 364,
+      "timeLabel": "6:04",
+      "text": "Hola.",
+      "hy": "Բարև։"
+    },
+    {
+      "id": "cap20-line-59",
+      "start": 365,
+      "timeLabel": "6:05",
+      "text": "¿Voví?",
+      "hy": "Բոբի՛։"
+    },
+    {
+      "id": "cap20-line-60",
+      "start": 366,
+      "timeLabel": "6:06",
+      "text": "Esta noche es el de fila, y yo supongo que vas a venir conmigo, ¿verdad?",
+      "hy": "Այս գիշեր ցուցադրությունն է, ու ենթադրում եմ՝ ինձ հետ ես գալու, չէ՞։"
+    },
+    {
+      "id": "cap20-line-61",
+      "start": 368,
+      "timeLabel": "6:08",
+      "text": "¿El de fila?",
+      "hy": "Ցուցադրությո՞ւնը։"
+    },
+    {
+      "id": "cap20-line-62",
+      "start": 369,
+      "timeLabel": "6:09",
+      "text": "Sí, sí, vamos, vamos, vamos.",
+      "hy": "Այո՛, այո՛, գնանք, գնանք, գնանք։"
+    },
+    {
+      "id": "cap20-line-63",
+      "start": 370,
+      "timeLabel": "6:10",
+      "text": "Es que seguramente que no hay más entradas, ¿no?",
+      "hy": "Պարզապես հաստատ էլ տոմս չի մնացել, չէ՞։"
+    },
+    {
+      "id": "cap20-line-64",
+      "start": 373,
+      "timeLabel": "6:13",
+      "text": "Entonces no voy a poder ir.",
+      "hy": "Ուրեմն չեմ կարողանա գնալ։"
+    },
+    {
+      "id": "cap20-line-65",
+      "start": 377,
+      "timeLabel": "6:17",
+      "text": "¿Y vos como sabes que no está paralítico?",
+      "hy": "Իսկ դու որտեղի՞ց գիտես, որ նա անդամալույծ չէ։"
+    },
+    {
+      "id": "cap20-line-66",
+      "start": 380,
+      "timeLabel": "6:20",
+      "text": "Porque entre el cuarto y no estaba.",
+      "hy": "Որովհետև սենյակ մտա ու նա այնտեղ չէր։"
+    },
+    {
+      "id": "cap20-line-67",
+      "start": 382,
+      "timeLabel": "6:22",
+      "text": "Está bien, está bien, pero no sé, pudo haber ido al baño...",
+      "hy": "Լավ, լավ, բայց չգիտեմ՝ կարող էր լոգարան գնացած լինել..."
+    },
+    {
+      "id": "cap20-line-68",
+      "start": 384,
+      "timeLabel": "6:24",
+      "text": "Cateando, pudo haber ido al baño, si estaba la silla vacía.",
+      "hy": "Չորեքթա՞թ էր լոգարան գնացել, եթե անվասայլակը դատարկ էր։"
+    },
+    {
+      "id": "cap20-line-69",
+      "start": 388,
+      "timeLabel": "6:28",
+      "text": "¿Y se lo dijiste?",
+      "hy": "Եվ նրան ասացի՞ր։"
+    },
+    {
+      "id": "cap20-line-70",
+      "start": 388,
+      "timeLabel": "6:28",
+      "text": "¿Hablaste con él?",
+      "hy": "Խոսեցի՞ր նրա հետ։"
+    },
+    {
+      "id": "cap20-line-71",
+      "start": 391,
+      "timeLabel": "6:31",
+      "text": "No sé si lo quiero volver a ver.",
+      "hy": "Չգիտեմ՝ ուզո՞ւմ եմ նրան նորից տեսնել։"
+    },
+    {
+      "id": "cap20-line-72",
+      "start": 393,
+      "timeLabel": "6:33",
+      "text": "No, no, no, hagas eso.",
+      "hy": "Ո՛չ, ո՛չ, ո՛չ, այդպես մի՛ արա։"
+    },
+    {
+      "id": "cap20-line-73",
+      "start": 396,
+      "timeLabel": "6:36",
+      "text": "¿Por qué?",
+      "hy": "Ինչո՞ւ։"
+    },
+    {
+      "id": "cap20-line-74",
+      "start": 397,
+      "timeLabel": "6:37",
+      "text": "¿Por qué te quiere?",
+      "hy": "Որովհետև քեզ սիրում է։"
+    },
+    {
+      "id": "cap20-line-75",
+      "start": 398,
+      "timeLabel": "6:38",
+      "text": "Bueno, bueno, como razón no lo veo mentiroso.",
+      "hy": "Դե լավ, սիրում է, բայց միևնույն է ստախոս է։"
+    },
+    {
+      "id": "cap20-line-76",
+      "start": 400,
+      "timeLabel": "6:40",
+      "text": "Querendón y mentiroso.",
+      "hy": "Սիրող ու ստախոս։"
+    },
+    {
+      "id": "cap20-line-77",
+      "start": 401,
+      "timeLabel": "6:41",
+      "text": "Ahora, pensá una cosa.",
+      "hy": "Հիմա մի բան մտածիր։"
+    },
+    {
+      "id": "cap20-line-78",
+      "start": 402,
+      "timeLabel": "6:42",
+      "text": "Ponerte de su lado.",
+      "hy": "Դիր քեզ նրա տեղը։"
+    },
+    {
+      "id": "cap20-line-79",
+      "start": 403,
+      "timeLabel": "6:43",
+      "text": "¿Por qué se hace el paralítico?",
+      "hy": "Ինչո՞ւ է անդամալույծ ձևանում։"
+    },
+    {
+      "id": "cap20-line-80",
+      "start": 405,
+      "timeLabel": "6:45",
+      "text": "Si no está paralítico, ¿cómo vas a decir?",
+      "hy": "Եթե անդամալույծ չէ, ի՞նչ կասես։"
+    },
+    {
+      "id": "cap20-line-81",
+      "start": 406,
+      "timeLabel": "6:46",
+      "text": "Por algo es porque sufre.",
+      "hy": "Ինչ-որ պատճառով է՝ որովհետև տառապում է։"
+    },
+    {
+      "id": "cap20-line-82",
+      "start": 409,
+      "timeLabel": "6:49",
+      "text": "¿Mendiéndola a la gente se sufre?",
+      "hy": "Մարդկանց ստելո՞վ են տառապում։"
+    },
+    {
+      "id": "cap20-line-83",
+      "start": 412,
+      "timeLabel": "6:52",
+      "text": "A mí me parece que sufren los demás.",
+      "hy": "Ինձ թվում է՝ մյուսներն են տառապում։"
+    },
+    {
+      "id": "cap20-line-84",
+      "start": 414,
+      "timeLabel": "6:54",
+      "text": "Yo creo que tendrías que pensar que tienes sus motivos.",
+      "hy": "Ես կարծում եմ՝ պետք է մտածես, որ նա իր պատճառներն ունի։"
+    },
+    {
+      "id": "cap20-line-85",
+      "start": 417,
+      "timeLabel": "6:57",
+      "text": "No sé, yo lo ayudaría.",
+      "hy": "Չգիտեմ, ես նրան կօգնեի։"
+    },
+    {
+      "id": "cap20-line-86",
+      "start": 427,
+      "timeLabel": "7:07",
+      "text": "La verdad es que nunca me imaginé que podías llegar a hacer una cosa así.",
+      "hy": "Ճիշտն ասած՝ երբեք չէի պատկերացնի, որ կարող էիր նման բան անել։"
+    },
+    {
+      "id": "cap20-line-87",
+      "start": 431,
+      "timeLabel": "7:11",
+      "text": "A tu propia madre.",
+      "hy": "Քո սեփական մորը։"
+    },
+    {
+      "id": "cap20-line-88",
+      "start": 433,
+      "timeLabel": "7:13",
+      "text": "Porque yo te hubiera dado todo.",
+      "hy": "Որովհետև ես քեզ ամեն ինչ կտայի։"
+    },
+    {
+      "id": "cap20-line-89",
+      "start": 435,
+      "timeLabel": "7:15",
+      "text": "Si vos me lo hubieras pedido, te hubiera dado todo.",
+      "hy": "Եթե դու ինձ խնդրած լինեիր, քեզ ամեն ինչ կտայի։"
+    },
+    {
+      "id": "cap20-line-90",
+      "start": 437,
+      "timeLabel": "7:17",
+      "text": "Pero robar, lo único que falta.",
+      "hy": "Բայց գողանալ՝ միայն դա էր պակասում։"
+    },
+    {
+      "id": "cap20-line-91",
+      "start": 439,
+      "timeLabel": "7:19",
+      "text": "Hola.",
+      "hy": "Բարև։"
+    },
+    {
+      "id": "cap20-line-92",
+      "start": 450,
+      "timeLabel": "7:30",
+      "text": "Es que suerte que vino porque la verdad es que no tengo romero.",
+      "hy": "Ինչ բախտ է, որ եկաք, որովհետև ճիշտն ասած՝ հազրեվարդ չունեմ։"
+    },
+    {
+      "id": "cap20-line-93",
+      "start": 453,
+      "timeLabel": "7:33",
+      "text": "Y a lo mejor usted tiene en la huerta.",
+      "hy": "Իսկ գուցե դուք բանջարանոցում ունեք։"
+    },
+    {
+      "id": "cap20-line-94",
+      "start": 455,
+      "timeLabel": "7:35",
+      "text": "Pero por supuesto, en la huerta hay de todo.",
+      "hy": "Իհարկե, բանջարանոցում ամեն ինչ կա։"
+    },
+    {
+      "id": "cap20-line-95",
+      "start": 457,
+      "timeLabel": "7:37",
+      "text": "Vas y saque lo que quieras.",
+      "hy": "Գնացեք և վերցրեք՝ ինչ ուզում եք։"
+    },
+    {
+      "id": "cap20-line-96",
+      "start": 461,
+      "timeLabel": "7:41",
+      "text": "¿Qué pasa?",
+      "hy": "Ի՞նչ է պատահել։"
+    },
+    {
+      "id": "cap20-line-97",
+      "start": 488,
+      "timeLabel": "8:08",
+      "text": "¡Pensa que es una carrosería que te puede llevar todo por delante!",
+      "hy": "Կարծում ես՝ մի սայլակ ես, որ ամեն ինչ կարող ես տրորել անցնել։"
+    },
+    {
+      "id": "cap20-line-98",
+      "start": 491,
+      "timeLabel": "8:11",
+      "text": "¡Te equivocás!",
+      "hy": "Սխալվո՛ւմ ես։"
+    },
+    {
+      "id": "cap20-line-99",
+      "start": 496,
+      "timeLabel": "8:16",
+      "text": "Ya te lo dije una vez.",
+      "hy": "Մի անգամ արդեն քեզ ասել եմ։"
+    },
+    {
+      "id": "cap20-line-100",
+      "start": 498,
+      "timeLabel": "8:18",
+      "text": "A los hombres nos gustan.",
+      "hy": "Մեզ՝ տղամարդկանց դուր են գալիս..."
+    },
+    {
+      "id": "cap20-line-101",
+      "start": 500,
+      "timeLabel": "8:20",
+      "text": "Las mujeres que no...",
+      "hy": "այն կանայք, որոնք չեն..."
+    },
+    {
+      "id": "cap20-line-102",
+      "start": 501,
+      "timeLabel": "8:21",
+      "text": "Que no encuadran.",
+      "hy": "որոնք շրջանակների մեջ չեն տեղավորվում։"
+    },
+    {
+      "id": "cap20-line-103",
+      "start": 503,
+      "timeLabel": "8:23",
+      "text": "Me encantó.",
+      "hy": "Շատ դուր եկավ։"
+    },
+    {
+      "id": "cap20-line-104",
+      "start": 511,
+      "timeLabel": "8:31",
+      "text": "¿Viste la zona roja?",
+      "hy": "Տեսե՞լ ես կարմիր գոտին։"
+    },
+    {
+      "id": "cap20-line-105",
+      "start": 513,
+      "timeLabel": "8:33",
+      "text": "¿Hay donde paran los autos?",
+      "hy": "Այնտեղ, որտեղ մեքենաները կանգնում են։"
+    },
+    {
+      "id": "cap20-line-106",
+      "start": 516,
+      "timeLabel": "8:36",
+      "text": "Yo no soy como ésa, ¿eh?",
+      "hy": "Ես նրանց նման չեմ, հա՞։"
+    },
+    {
+      "id": "cap20-line-107",
+      "start": 532,
+      "timeLabel": "8:52",
+      "text": "Así que vos conmigo no te metés.",
+      "hy": "Այնպես որ դու ինձ հետ մի՛ խառնվիր։"
+    },
+    {
+      "id": "cap20-line-108",
+      "start": 550,
+      "timeLabel": "9:10",
+      "text": "¿Me vas a bajar la bombachita y me vas a hacer chachas en la cola?",
+      "hy": "Հիմա վարտիքս ես իջեցնելու ու ապտակե՞ս տալու հետույքիս։"
+    },
+    {
+      "id": "cap20-line-109",
+      "start": 557,
+      "timeLabel": "9:17",
+      "text": "pero sí que me va a dejar la verdad.",
+      "hy": "Բայց հաստատ ինձ ճիշտն ես թողնելու ասեմ։"
+    },
+    {
+      "id": "cap20-line-110",
+      "start": 573,
+      "timeLabel": "9:33",
+      "text": "Soltando que la mercadería no se toca.",
+      "hy": "Բաց թող, ապրանքին չեն դիպչում։"
+    },
+    {
+      "id": "cap20-line-111",
+      "start": 575,
+      "timeLabel": "9:35",
+      "text": "Decimos una cosa, milagros.",
+      "hy": "Մի բան ասա, Միլագրոս։"
+    },
+    {
+      "id": "cap20-line-112",
+      "start": 576,
+      "timeLabel": "9:36",
+      "text": "¿Vos sabes el Lionel que me metió?",
+      "hy": "Դու գիտե՞ս՝ ինչ խառնաշփոթի մեջ գցեցիր ինձ։"
+    },
+    {
+      "id": "cap20-line-113",
+      "start": 579,
+      "timeLabel": "9:39",
+      "text": "¿Cómo en el dios?",
+      "hy": "Ինչպե՞ս թե խառնաշփոթի։"
+    },
+    {
+      "id": "cap20-line-114",
+      "start": 579,
+      "timeLabel": "9:39",
+      "text": "Yo no le metio en un lío, señor.",
+      "hy": "Ես ձեզ ոչ մի խառնաշփոթի մեջ չեմ գցել, պարոն։"
+    },
+    {
+      "id": "cap20-line-115",
+      "start": 580,
+      "timeLabel": "9:40",
+      "text": "Usted se metio en un lío por su propia culpa.",
+      "hy": "Դուք ինքներդ ընկաք այդ խառնաշփոթի մեջ՝ ձեր սեփական մեղքով։"
+    },
+    {
+      "id": "cap20-line-116",
+      "start": 582,
+      "timeLabel": "9:42",
+      "text": "Ah, por mi culpa.",
+      "hy": "Ա՜, ի՞մ մեղքով։"
+    },
+    {
+      "id": "cap20-line-117",
+      "start": 583,
+      "timeLabel": "9:43",
+      "text": "Por supuesto, por supuesto.",
+      "hy": "Իհարկե, իհարկե։"
+    },
+    {
+      "id": "cap20-line-118",
+      "start": 584,
+      "timeLabel": "9:44",
+      "text": "Donde se ha visto con chavón con novia le ande regalando a Frior esa otra chica.",
+      "hy": "Որտե՞ղ է տեսնված, որ ընկերուհի ունեցող տղան ուրիշ աղջկա ծաղիկներ նվիրի։"
+    },
+    {
+      "id": "cap20-line-119",
+      "start": 592,
+      "timeLabel": "9:52",
+      "text": "¡Ay, está!",
+      "hy": "Ա՜յ քեզ բան։"
+    },
+    {
+      "id": "cap20-line-120",
+      "start": 594,
+      "timeLabel": "9:54",
+      "text": "¿Abrí esa puerta?",
+      "hy": "Բա՛ց այդ դուռը։"
+    },
+    {
+      "id": "cap20-line-121",
+      "start": 594,
+      "timeLabel": "9:54",
+      "text": "No.",
+      "hy": "Ո՛չ։"
+    },
+    {
+      "id": "cap20-line-122",
+      "start": 595,
+      "timeLabel": "9:55",
+      "text": "¿Abrí esa puerta?",
+      "hy": "Բա՛ց այդ դուռը։"
+    },
+    {
+      "id": "cap20-line-123",
+      "start": 597,
+      "timeLabel": "9:57",
+      "text": "No.",
+      "hy": "Ո՛չ։"
+    },
+    {
+      "id": "cap20-line-124",
+      "start": 597,
+      "timeLabel": "9:57",
+      "text": "Bueno, grito.",
+      "hy": "Լավ, կգոռամ։"
+    },
+    {
+      "id": "cap20-line-125",
+      "start": 598,
+      "timeLabel": "9:58",
+      "text": "¿Ah, sí?",
+      "hy": "Ա՜, այո՞։"
+    },
+    {
+      "id": "cap20-line-126",
+      "start": 598,
+      "timeLabel": "9:58",
+      "text": "¿Bien?",
+      "hy": "Լա՞վ։"
+    },
+    {
+      "id": "cap20-line-127",
+      "start": 598,
+      "timeLabel": "9:58",
+      "text": "Grita.",
+      "hy": "Գոռա՛։"
+    },
+    {
+      "id": "cap20-line-128",
+      "start": 599,
+      "timeLabel": "9:59",
+      "text": "Bueno, grita todo lo que quiera.",
+      "hy": "Դե գոռա՝ ինչքան ուզում ես։"
+    },
+    {
+      "id": "cap20-line-129",
+      "start": 600,
+      "timeLabel": "10:00",
+      "text": "Yo también voy a gritar.",
+      "hy": "Ես էլ եմ գոռալու։"
+    },
+    {
+      "id": "cap20-line-130",
+      "start": 601,
+      "timeLabel": "10:01",
+      "text": "¿Sabes qué voy a gritar?",
+      "hy": "Գիտե՞ս՝ ինչ եմ գոռալու։"
+    },
+    {
+      "id": "cap20-line-131",
+      "start": 602,
+      "timeLabel": "10:02",
+      "text": "Estaba bañándome cuando de repente Emilia los entró.",
+      "hy": "Լողանում էի, երբ հանկարծ Միլագրոսը ներս մտավ։"
+    },
+    {
+      "id": "cap20-line-132",
+      "start": 604,
+      "timeLabel": "10:04",
+      "text": "No sé con qué intenciones y con qué cosas vino, con ganas de hacer más de qué cosas.",
+      "hy": "Չգիտեմ՝ ինչ մտադրություններով ու ինչ բաներով եկավ, ով գիտի ինչեր անելու ցանկությամբ։"
+    },
+    {
+      "id": "cap20-line-133",
+      "start": 608,
+      "timeLabel": "10:08",
+      "text": "Yo estaba desnudo perfectamente.",
+      "hy": "Ես ամբողջովին մերկ էի։"
+    },
+    {
+      "id": "cap20-line-134",
+      "start": 609,
+      "timeLabel": "10:09",
+      "text": "¡No, no, no!",
+      "hy": "Ո՛չ, ո՛չ, ո՛չ։"
+    },
+    {
+      "id": "cap20-line-135",
+      "start": 609,
+      "timeLabel": "10:09",
+      "text": "¡Cústeres!",
+      "hy": "Զգո՛ւյշ եղեք։"
+    },
+    {
+      "id": "cap20-line-136",
+      "start": 610,
+      "timeLabel": "10:10",
+      "text": "¿Por qué no?",
+      "hy": "Ինչո՞ւ ոչ։"
+    },
+    {
+      "id": "cap20-line-137",
+      "start": 610,
+      "timeLabel": "10:10",
+      "text": "Porque no es nada.",
+      "hy": "Որովհետև ոչինչ չկա։"
+    },
+    {
+      "id": "cap20-line-138",
+      "start": 610,
+      "timeLabel": "10:10",
+      "text": "No es nada.",
+      "hy": "Ոչինչ չկա։"
+    },
+    {
+      "id": "cap20-line-139",
+      "start": 610,
+      "timeLabel": "10:10",
+      "text": "y",
+      "hy": "Եվ..."
+    },
+    {
+      "id": "cap20-line-140",
+      "start": 631,
+      "timeLabel": "10:31",
+      "text": "¡Dámela!",
+      "hy": "Տո՛ւր ինձ այն։"
+    },
+    {
+      "id": "cap20-line-141",
+      "start": 635,
+      "timeLabel": "10:35",
+      "text": "¡No te la voy a dar!",
+      "hy": "Քեզ չեմ տալու։"
+    },
+    {
+      "id": "cap20-line-142",
+      "start": 636,
+      "timeLabel": "10:36",
+      "text": "Bueno, está bien, ¡dámela igual!",
+      "hy": "Լավ, եղավ, միևնույն է տո՛ւր ինձ։"
+    },
+    {
+      "id": "cap20-line-143",
+      "start": 637,
+      "timeLabel": "10:37",
+      "text": "¡No te la voy a dar!",
+      "hy": "Քեզ չեմ տալու։"
+    },
+    {
+      "id": "cap20-line-144",
+      "start": 638,
+      "timeLabel": "10:38",
+      "text": "Bueno, no la escuchas, no lo veo, no lo miro, no lo escuchas...",
+      "hy": "Լավ, չեմ լսում, չեմ տեսնում, չեմ նայում, չեմ լսում..."
+    },
+    {
+      "id": "cap20-line-145",
+      "start": 643,
+      "timeLabel": "10:43",
+      "text": "Ah, perfecto.",
+      "hy": "Ա՜, հրաշալի է։"
+    },
+    {
+      "id": "cap20-line-146",
+      "start": 644,
+      "timeLabel": "10:44",
+      "text": "Está bien, no se desnude, yo lo escucho.",
+      "hy": "Լավ, մի՛ մերկացեք, ես ձեզ լսում եմ։"
+    },
+    {
+      "id": "cap20-line-147",
+      "start": 647,
+      "timeLabel": "10:47",
+      "text": "Bueno, perfecto.",
+      "hy": "Լավ, հրաշալի է։"
+    },
+    {
+      "id": "cap20-line-148",
+      "start": 649,
+      "timeLabel": "10:49",
+      "text": "¿Qué pasa?",
+      "hy": "Ի՞նչ է եղել։"
+    },
+    {
+      "id": "cap20-line-149",
+      "start": 649,
+      "timeLabel": "10:49",
+      "text": "¿No te gustó así, al natural?",
+      "hy": "Այսպես՝ բնական վիճակում դո՞ւր չեկավ քեզ։"
+    },
+    {
+      "id": "cap20-line-150",
+      "start": 650,
+      "timeLabel": "10:50",
+      "text": "¿Muchas mujeres le gustó así?",
+      "hy": "Շատ կանանց է այսպես դուր եկել։"
+    },
+    {
+      "id": "cap20-line-151",
+      "start": 652,
+      "timeLabel": "10:52",
+      "text": "No, no, no.",
+      "hy": "Ո՛չ, ո՛չ, ո՛չ։"
+    },
+    {
+      "id": "cap20-line-152",
+      "start": 652,
+      "timeLabel": "10:52",
+      "text": "¿Que no son mujeres?",
+      "hy": "Ի՞նչ է՝ կին չե՞ս։"
+    },
+    {
+      "id": "cap20-line-153",
+      "start": 653,
+      "timeLabel": "10:53",
+      "text": "No, digo sí, pero...",
+      "hy": "Ո՛չ, այսինքն՝ այո՛, բայց..."
+    },
+    {
+      "id": "cap20-line-154",
+      "start": 655,
+      "timeLabel": "10:55",
+      "text": "No, no lo quiero mirar, no lo quiero mirar, no lo veo, no lo mucho.",
+      "hy": "Ո՛չ, չեմ ուզում նայել, չեմ ուզում նայել, չեմ տեսնում, չեմ լսում։"
+    },
+    {
+      "id": "cap20-line-155",
+      "start": 658,
+      "timeLabel": "10:58",
+      "text": "Bueno, perfecto, no te desgracias, gato, no, no, no, no, ahí está, listo.",
+      "hy": "Լավ, հրաշալի, մի՛ անհանգստացիր, փիսիկ, ոչ, ոչ, ահա, պատրաստ է։"
+    },
+    {
+      "id": "cap20-line-156",
+      "start": 661,
+      "timeLabel": "11:01",
+      "text": "¡Que no!",
+      "hy": "Ո՛չ։"
+    },
+    {
+      "id": "cap20-line-157",
+      "start": 664,
+      "timeLabel": "11:04",
+      "text": "¡Vení para acá!",
+      "hy": "Արի՛ այստեղ։"
+    },
+    {
+      "id": "cap20-line-158",
+      "start": 665,
+      "timeLabel": "11:05",
+      "text": "¡Vení para acá!",
+      "hy": "Արի՛ այստեղ։"
+    },
+    {
+      "id": "cap20-line-159",
+      "start": 671,
+      "timeLabel": "11:11",
+      "text": "Me corrió en el pasillo.",
+      "hy": "Միջանցքում հետևիցս վազեց։"
+    },
+    {
+      "id": "cap20-line-160",
+      "start": 673,
+      "timeLabel": "11:13",
+      "text": "Me acaba de poner un biste que no te pones nada.",
+      "hy": "Հենց նոր ինձ այնպիսի վիճակում բռնեց, որ ոչինչ չէի հագել։"
+    },
+    {
+      "id": "cap20-line-161",
+      "start": 685,
+      "timeLabel": "11:25",
+      "text": "¿Qué le creas?",
+      "hy": "Ի՞նչ ես կարծում։"
+    },
+    {
+      "id": "cap20-line-162",
+      "start": 686,
+      "timeLabel": "11:26",
+      "text": "Mira cómo está.",
+      "hy": "Տես՝ ինչպես է։"
+    },
+    {
+      "id": "cap20-line-163",
+      "start": 696,
+      "timeLabel": "11:36",
+      "text": "Así es, tacarita, mi primo.",
+      "hy": "Այդպիսի դեմքով է իմ զարմիկը։"
+    },
+    {
+      "id": "cap20-line-164",
+      "start": 702,
+      "timeLabel": "11:42",
+      "text": "¿Cuanto que suerte que veniste?",
+      "hy": "Ինչ բախտ է, որ եկար։"
+    },
+    {
+      "id": "cap20-line-165",
+      "start": 704,
+      "timeLabel": "11:44",
+      "text": "¿Cústas estaba pensando en vos?",
+      "hy": "Հենց քո մասին էի մտածում։"
+    },
+    {
+      "id": "cap20-line-166",
+      "start": 719,
+      "timeLabel": "11:59",
+      "text": "que usted me levanta el año.",
+      "hy": "Որ դուք իմ տրամադրությունը բարձրացնում եք։"
+    },
+    {
+      "id": "cap20-line-167",
+      "start": 723,
+      "timeLabel": "12:03",
+      "text": "A mí también es impresionante la cosa que dice, ¿no?",
+      "hy": "Ինձ համար էլ է տպավորիչ՝ ինչեր եք ասում, չէ՞։"
+    },
+    {
+      "id": "cap20-line-168",
+      "start": 728,
+      "timeLabel": "12:08",
+      "text": "emocionada.",
+      "hy": "Հուզված։"
+    },
+    {
+      "id": "cap20-line-169",
+      "start": 732,
+      "timeLabel": "12:12",
+      "text": "Pero no Ramón, déjelo y siga diciéndome esas cosas lindas que a mí me gustan.",
+      "hy": "Բայց ոչ, Ռամոն, թողեք և շարունակեք ինձ ասել այդ գեղեցիկ բաները, որոնք ինձ դուր են գալիս։"
+    },
+    {
+      "id": "cap20-line-170",
+      "start": 738,
+      "timeLabel": "12:18",
+      "text": "¿La guste que era mi flor de Alelí?",
+      "hy": "Իմ չքնաղ ծաղիկ։"
+    },
+    {
+      "id": "cap20-line-171",
+      "start": 744,
+      "timeLabel": "12:24",
+      "text": "Un minuto para ir al desfile.",
+      "hy": "Մեկ րոպե մնաց ցուցադրությանը գնալուն։"
+    },
+    {
+      "id": "cap20-line-172",
+      "start": 745,
+      "timeLabel": "12:25",
+      "text": "Esa es muy bien.",
+      "hy": "Դա շատ լավ է։"
+    },
+    {
+      "id": "cap20-line-173",
+      "start": 746,
+      "timeLabel": "12:26",
+      "text": "Muy bien.",
+      "hy": "Շատ լավ։"
+    },
+    {
+      "id": "cap20-line-174",
+      "start": 747,
+      "timeLabel": "12:27",
+      "text": "Gracias.",
+      "hy": "Շնորհակալություն։"
+    },
+    {
+      "id": "cap20-line-175",
+      "start": 748,
+      "timeLabel": "12:28",
+      "text": "Tienes la vaca de vida, busco dentro a la ocupada.",
+      "hy": "Հիանալի տեսք ունեք, բայց ներսում զբաղված է։"
+    },
+    {
+      "id": "cap20-line-176",
+      "start": 750,
+      "timeLabel": "12:30",
+      "text": "Trague, trague.",
+      "hy": "Հանգիստ եղեք, կուլ տվեք։"
+    },
+    {
+      "id": "cap20-line-177",
+      "start": 751,
+      "timeLabel": "12:31",
+      "text": "Dígame.",
+      "hy": "Ասացեք։"
+    },
+    {
+      "id": "cap20-line-178",
+      "start": 751,
+      "timeLabel": "12:31",
+      "text": "No quiero faltar en el respeto, pero hoy le voy a hacer yo de chofer.",
+      "hy": "Չեմ ուզում անհարգալից լինել, բայց այսօր ես եմ լինելու ձեր վարորդը։"
+    },
+    {
+      "id": "cap20-line-179",
+      "start": 762,
+      "timeLabel": "12:42",
+      "text": "De ninguna manera.",
+      "hy": "Ոչ մի դեպքում։"
+    },
+    {
+      "id": "cap20-line-180",
+      "start": 763,
+      "timeLabel": "12:43",
+      "text": "Primero no es Rocky, es Morgan.",
+      "hy": "Նախ՝ Ռոկի չէ, Մորգան է։"
+    },
+    {
+      "id": "cap20-line-181",
+      "start": 765,
+      "timeLabel": "12:45",
+      "text": "Y segundo, yo fui a desprestar en el auto, no sentadito donde fíjate.",
+      "hy": "Եվ երկրորդ՝ ես պետք է մեքենայի մոտ սպասեմ, ոչ թե ցուցադրությանը նստած։"
+    },
+    {
+      "id": "cap20-line-182",
+      "start": 773,
+      "timeLabel": "12:53",
+      "text": "Por lo menos, sentado a ser.",
+      "hy": "Գոնե նստած կլինեմ։"
+    },
+    {
+      "id": "cap20-line-183",
+      "start": 778,
+      "timeLabel": "12:58",
+      "text": "Me tiran por radio.",
+      "hy": "Ռադիոյով են ինձ հաղորդագրություն ուղարկում։"
+    },
+    {
+      "id": "cap20-line-184",
+      "start": 781,
+      "timeLabel": "13:01",
+      "text": "No está bueno que pienses en mí, ¿eh?",
+      "hy": "Լավ չէ, որ իմ մասին մտածում ես, հա՞։"
+    },
+    {
+      "id": "cap20-line-185",
+      "start": 783,
+      "timeLabel": "13:03",
+      "text": "¿Por qué no?",
+      "hy": "Ինչո՞ւ ոչ։"
+    },
+    {
+      "id": "cap20-line-186",
+      "start": 784,
+      "timeLabel": "13:04",
+      "text": "Si a mí me gusta.",
+      "hy": "Ինձ դուր է գալիս։"
+    },
+    {
+      "id": "cap20-line-187",
+      "start": 785,
+      "timeLabel": "13:05",
+      "text": "¿Acaso vos no pensás en mí de vez en cuando?",
+      "hy": "Մի՞թե դու երբեմն իմ մասին չես մտածում։"
+    },
+    {
+      "id": "cap20-line-188",
+      "start": 787,
+      "timeLabel": "13:07",
+      "text": "Sí, muy de vez en cuando, mira.",
+      "hy": "Այո՛, շատ հազվադեպ, տես։"
+    },
+    {
+      "id": "cap20-line-189",
+      "start": 791,
+      "timeLabel": "13:11",
+      "text": "¿Sabes que Bernardo me hijo de me cuide?",
+      "hy": "Գիտե՞ս, որ Բեռնարդոն ինձ ասաց՝ զգուշանամ։"
+    },
+    {
+      "id": "cap20-line-190",
+      "start": 794,
+      "timeLabel": "13:14",
+      "text": "¿De qué?",
+      "hy": "Ինչի՞ց։"
+    },
+    {
+      "id": "cap20-line-191",
+      "start": 795,
+      "timeLabel": "13:15",
+      "text": "De vos.",
+      "hy": "Քեզնից։"
+    },
+    {
+      "id": "cap20-line-192",
+      "start": 797,
+      "timeLabel": "13:17",
+      "text": "Siento que puede ser una aprovechadora",
+      "hy": "Ասաց՝ գուցե դու շահամոլ ես..."
+    },
+    {
+      "id": "cap20-line-193",
+      "start": 801,
+      "timeLabel": "13:21",
+      "text": "Esto es un tipo que tiene plata y bueno...",
+      "hy": "Որ ես փող ունեցող տղա եմ ու դե..."
+    },
+    {
+      "id": "cap20-line-194",
+      "start": 803,
+      "timeLabel": "13:23",
+      "text": "¿Me estás cargando?",
+      "hy": "Ինձ ձե՞ռ ես առնում։"
+    },
+    {
+      "id": "cap20-line-195",
+      "start": 804,
+      "timeLabel": "13:24",
+      "text": "Sí, y lo sabré porque tiene la mente podrida, pero sabe dónde puedes meter toda tu guita y todo...",
+      "hy": "Այո՛, իրավացի է, որովհետև փչացած միտք ունի, բայց գիտե՞ս՝ ուր կարող ես դնել քո ամբողջ փողն ու ամեն ինչը..."
+    },
+    {
+      "id": "cap20-line-196",
+      "start": 808,
+      "timeLabel": "13:28",
+      "text": "¡No, no lo dije, mini!",
+      "hy": "Ո՛չ, ես չեմ ասել, Միլի՛։"
+    },
+    {
+      "id": "cap20-line-197",
+      "start": 809,
+      "timeLabel": "13:29",
+      "text": "Lo dijo él.",
+      "hy": "Ինքն է ասել։"
+    },
+    {
+      "id": "cap20-line-198",
+      "start": 809,
+      "timeLabel": "13:29",
+      "text": "¿Por qué pensás?",
+      "hy": "Ինչո՞ւ ես այդպես մտածում։"
+    },
+    {
+      "id": "cap20-line-199",
+      "start": 813,
+      "timeLabel": "13:33",
+      "text": "¿Vos viste Titanic?",
+      "hy": "Դու «Տիտանիկ»-ը տեսե՞լ ես։"
+    },
+    {
+      "id": "cap20-line-200",
+      "start": 814,
+      "timeLabel": "13:34",
+      "text": "¿Qué tiene que ver Titanic?",
+      "hy": "«Տիտանիկ»-ը ի՞նչ կապ ունի։"
+    },
+    {
+      "id": "cap20-line-201",
+      "start": 815,
+      "timeLabel": "13:35",
+      "text": "No, no la vi, me quedé con las ganas.",
+      "hy": "Ո՛չ, չեմ տեսել, շատ էի ուզում տեսնել։"
+    },
+    {
+      "id": "cap20-line-202",
+      "start": 818,
+      "timeLabel": "13:38",
+      "text": "¿Viste el guacho rubio que está ahí?",
+      "hy": "Տեսե՞լ ես այնտեղի շիկահեր տղային։"
+    },
+    {
+      "id": "cap20-line-203",
+      "start": 820,
+      "timeLabel": "13:40",
+      "text": "Ese que está muy fuerte.",
+      "hy": "Այն, որ շատ գրավիչ է։"
+    },
+    {
+      "id": "cap20-line-204",
+      "start": 822,
+      "timeLabel": "13:42",
+      "text": "Seguro que si esa parece en calzoncillo no lo pensaría.",
+      "hy": "Հաստատ եթե նա ներքնազգեստով հայտնվի, երկու անգամ չէիր մտածի։"
+    },
+    {
+      "id": "cap20-line-205",
+      "start": 825,
+      "timeLabel": "13:45",
+      "text": "No era una jodita, era una jodita.",
+      "hy": "Ո՛չ, կատակ էր, կատակ էր։"
+    },
+    {
+      "id": "cap20-line-206",
+      "start": 826,
+      "timeLabel": "13:46",
+      "text": "Yo hablo y hablo, pero al final...",
+      "hy": "Ես խոսում եմ ու խոսում, բայց վերջում..."
+    },
+    {
+      "id": "cap20-line-207",
+      "start": 827,
+      "timeLabel": "13:47",
+      "text": "¿A qué me querés decir, Titanic?",
+      "hy": "Ի՞նչ էիր ուզում ասել «Տիտանիկ»-ի մասին։"
+    },
+    {
+      "id": "cap20-line-208",
+      "start": 831,
+      "timeLabel": "13:51",
+      "text": "¿Sólo Virgen, vos?",
+      "hy": "Դու կո՞ւյս ես։"
+    },
+    {
+      "id": "cap20-line-209",
+      "start": 840,
+      "timeLabel": "14:00",
+      "text": "No, no me encantaría, pero es verdad.",
+      "hy": "Ո՛չ, չէի ուզենա, բայց ճիշտ է։"
+    },
+    {
+      "id": "cap20-line-210",
+      "start": 842,
+      "timeLabel": "14:02",
+      "text": "Va, va, está bien que te empujas más, tontas.",
+      "hy": "Դե լավ, բավական է խառնես, հիմարիկ։"
+    },
+    {
+      "id": "cap20-line-211",
+      "start": 845,
+      "timeLabel": "14:05",
+      "text": "Pero, ¿viste mi idea a quién puedes ser, Mr.",
+      "hy": "Բայց գաղափար ունե՞ս՝ ով կարող է լինել Միստր"
+    },
+    {
+      "id": "cap20-line-212",
+      "start": 847,
+      "timeLabel": "14:07",
+      "text": "Mysterio?",
+      "hy": "Միստերիոն։"
+    },
+    {
+      "id": "cap20-line-213",
+      "start": 848,
+      "timeLabel": "14:08",
+      "text": "Pues te conoce bastante bien.",
+      "hy": "Քեզ բավական լավ է ճանաչում։"
+    },
+    {
+      "id": "cap20-line-214",
+      "start": 850,
+      "timeLabel": "14:10",
+      "text": "¿Por qué?",
+      "hy": "Ինչո՞ւ։"
+    },
+    {
+      "id": "cap20-line-215",
+      "start": 851,
+      "timeLabel": "14:11",
+      "text": "¿Es que no escuchas el mensaje que te mando aquí por radio?",
+      "hy": "Չլսեցի՞ր այն ուղերձը, որ քեզ ռադիոյով ուղարկեց։"
+    },
+    {
+      "id": "cap20-line-216",
+      "start": 854,
+      "timeLabel": "14:14",
+      "text": "No.",
+      "hy": "Ո՛չ։"
+    },
+    {
+      "id": "cap20-line-217",
+      "start": 855,
+      "timeLabel": "14:15",
+      "text": "¿No me digas que mando otro mensaje?",
+      "hy": "Միայն չասես, որ ուրիշ ուղերձ էլ է ուղարկել։"
+    },
+    {
+      "id": "cap20-line-218",
+      "start": 856,
+      "timeLabel": "14:16",
+      "text": "¿Me escuchaste?",
+      "hy": "Լսեցի՞ր։"
+    },
+    {
+      "id": "cap20-line-219",
+      "start": 858,
+      "timeLabel": "14:18",
+      "text": "No.",
+      "hy": "Ո՛չ։"
+    },
+    {
+      "id": "cap20-line-220",
+      "start": 860,
+      "timeLabel": "14:20",
+      "text": "que te decía mucha suerte para el desfilé esta noche y te cantó otro tema.",
+      "hy": "Քեզ շատ հաջողություն էր մաղթում այս երեկոյան ցուցադրության համար և ուրիշ երգ երգեց։"
+    },
+    {
+      "id": "cap20-line-221",
+      "start": 865,
+      "timeLabel": "14:25",
+      "text": "¡Te muero!",
+      "hy": "Մեռնո՜ւմ եմ։"
+    },
+    {
+      "id": "cap20-line-222",
+      "start": 866,
+      "timeLabel": "14:26",
+      "text": "¡No otra, mamme, muero!",
+      "hy": "Ո՛չ, մայրի՛կ, մեռնում եմ։"
+    },
+    {
+      "id": "cap20-line-223",
+      "start": 868,
+      "timeLabel": "14:28",
+      "text": "¡Otra que te morí!",
+      "hy": "Ուրիշ երգ, մեռնում ես։"
+    },
+    {
+      "id": "cap20-line-224",
+      "start": 869,
+      "timeLabel": "14:29",
+      "text": "Otro tema estaba muy bueno, este...",
+      "hy": "Մյուս երգը շատ լավն էր, բանը..."
+    },
+    {
+      "id": "cap20-line-225",
+      "start": 871,
+      "timeLabel": "14:31",
+      "text": "te cantó otra canción.",
+      "hy": "քեզ ուրիշ երգ երգեց։"
+    },
+    {
+      "id": "cap20-line-226",
+      "start": 874,
+      "timeLabel": "14:34",
+      "text": "¿Y vos como sabes?",
+      "hy": "Իսկ դու որտեղի՞ց գիտես։"
+    },
+    {
+      "id": "cap20-line-227",
+      "start": 876,
+      "timeLabel": "14:36",
+      "text": "No, bueno, porque lo estaba escuchando, yo escucho esa radio.",
+      "hy": "Դե, որովհետև լսում էի, ես այդ ռադիոն եմ լսում։"
+    },
+    {
+      "id": "cap20-line-228",
+      "start": 879,
+      "timeLabel": "14:39",
+      "text": "¡Selena!",
+      "hy": "Օրիորդնե՛ր։"
+    },
+    {
+      "id": "cap20-line-229",
+      "start": 879,
+      "timeLabel": "14:39",
+      "text": "¡Victoria, el auto y su personal driver, o sea el chauffeur, están a su disposición!",
+      "hy": "Վիկտորիա՛, մեքենան և ձեր անձնական վարորդը՝ այսինքն շոֆերը, ձեր տրամադրության տակ են։"
+    },
+    {
+      "id": "cap20-line-230",
+      "start": 885,
+      "timeLabel": "14:45",
+      "text": "¡Showfair, morón!",
+      "hy": "Շոֆե՛ր, հիմար։"
+    },
+    {
+      "id": "cap20-line-231",
+      "start": 887,
+      "timeLabel": "14:47",
+      "text": "¡Sofen!",
+      "hy": "Շոֆե՛ր։"
+    },
+    {
+      "id": "cap20-line-232",
+      "start": 888,
+      "timeLabel": "14:48",
+      "text": "Muy bien, vamos, chicas.",
+      "hy": "Շատ լավ, գնանք, աղջիկներ։"
+    },
+    {
+      "id": "cap20-line-233",
+      "start": 891,
+      "timeLabel": "14:51",
+      "text": "Suerte, Vicky, eh.",
+      "hy": "Հաջողություն, Վիկի՛։"
+    },
+    {
+      "id": "cap20-line-234",
+      "start": 892,
+      "timeLabel": "14:52",
+      "text": "Gracias.",
+      "hy": "Շնորհակալություն։"
+    },
+    {
+      "id": "cap20-line-235",
+      "start": 893,
+      "timeLabel": "14:53",
+      "text": "Que te vaya lindo.",
+      "hy": "Հաջող անցնի։"
+    },
+    {
+      "id": "cap20-line-236",
+      "start": 894,
+      "timeLabel": "14:54",
+      "text": "¡Chao, Ibo!",
+      "hy": "Ցտեսություն, Իվո՛։"
+    },
+    {
+      "id": "cap20-line-237",
+      "start": 895,
+      "timeLabel": "14:55",
+      "text": "¡Chao!",
+      "hy": "Ցտեսություն։"
+    },
+    {
+      "id": "cap20-line-238",
+      "start": 897,
+      "timeLabel": "14:57",
+      "text": "Chau.",
+      "hy": "Ցտեսություն։"
+    },
+    {
+      "id": "cap20-line-239",
+      "start": 900,
+      "timeLabel": "15:00",
+      "text": "¡Dale, que no quiero perder el de files!",
+      "hy": "Արի՛, չեմ ուզում բաց թողնել ցուցադրությունը։"
+    },
+    {
+      "id": "cap20-line-240",
+      "start": 901,
+      "timeLabel": "15:01",
+      "text": "Vení, vámonos.",
+      "hy": "Արի՛, գնանք։"
+    },
+    {
+      "id": "cap20-line-241",
+      "start": 903,
+      "timeLabel": "15:03",
+      "text": "Vicky te invitó.",
+      "hy": "Վիկին քեզ հրավիրե՞ց։"
+    },
+    {
+      "id": "cap20-line-242",
+      "start": 905,
+      "timeLabel": "15:05",
+      "text": "No, bueno, no me invitó, pero yo voy de colado.",
+      "hy": "Ո՛չ, դե չհրավիրեց, բայց ես առանց հրավերի եմ գնում։"
+    },
+    {
+      "id": "cap20-line-243",
+      "start": 906,
+      "timeLabel": "15:06",
+      "text": "Tu hermana entra al de files, no me lo pierdo ni loco.",
+      "hy": "Քույրդ մասնակցում է ցուցադրությանը, ոչ մի դեպքում բաց չեմ թողնի։"
+    },
+    {
+      "id": "cap20-line-244",
+      "start": 909,
+      "timeLabel": "15:09",
+      "text": "Ah.",
+      "hy": "Ա՜։"
+    },
+    {
+      "id": "cap20-line-245",
+      "start": 910,
+      "timeLabel": "15:10",
+      "text": "¿Qué te pasó?",
+      "hy": "Ի՞նչ պատահեց քեզ։"
+    },
+    {
+      "id": "cap20-line-246",
+      "start": 911,
+      "timeLabel": "15:11",
+      "text": "No estoy de humor.",
+      "hy": "Տրամադրություն չունեմ։"
+    },
+    {
+      "id": "cap20-line-247",
+      "start": 921,
+      "timeLabel": "15:21",
+      "text": "¿Por qué te preguntas así?",
+      "hy": "Ինչո՞ւ ես այդպես հարցնում։"
+    },
+    {
+      "id": "cap20-line-248",
+      "start": 922,
+      "timeLabel": "15:22",
+      "text": "Porque sí, loco.",
+      "hy": "Որովհետև այդպես, ընկեր։"
+    },
+    {
+      "id": "cap20-line-249",
+      "start": 923,
+      "timeLabel": "15:23",
+      "text": "¿Cómo me vas a preguntar eso?",
+      "hy": "Ինչպե՞ս կարող ես ինձ նման բան հարցնել։"
+    },
+    {
+      "id": "cap20-line-250",
+      "start": 925,
+      "timeLabel": "15:25",
+      "text": "¿Acaso estás preguntando si vos o...",
+      "hy": "Մի՞թե ես քեզ հարցնում եմ՝ դու այո՞ թե..."
+    },
+    {
+      "id": "cap20-line-251",
+      "start": 927,
+      "timeLabel": "15:27",
+      "text": "no?",
+      "hy": "ոչ։"
+    },
+    {
+      "id": "cap20-line-252",
+      "start": 927,
+      "timeLabel": "15:27",
+      "text": "Pregúntamelo que quieras.",
+      "hy": "Հարցրու ինձ՝ ինչ ուզում ես։"
+    },
+    {
+      "id": "cap20-line-253",
+      "start": 928,
+      "timeLabel": "15:28",
+      "text": "No, que te pregunto...",
+      "hy": "Ո՛չ, ինչ հարցնեմ քեզ..."
+    },
+    {
+      "id": "cap20-line-254",
+      "start": 931,
+      "timeLabel": "15:31",
+      "text": "¡Sóviergan!",
+      "hy": "Կո՞ւյս ես։"
+    },
+    {
+      "id": "cap20-line-255",
+      "start": 934,
+      "timeLabel": "15:34",
+      "text": "¿Y si soy virgen o no?",
+      "hy": "Եվ ի՞նչ՝ կույս եմ թե ոչ։"
+    },
+    {
+      "id": "cap20-line-256",
+      "start": 935,
+      "timeLabel": "15:35",
+      "text": "¿Eh?",
+      "hy": "Հը՞։"
+    },
+    {
+      "id": "cap20-line-257",
+      "start": 936,
+      "timeLabel": "15:36",
+      "text": "Aparte, no lo puedes saber.",
+      "hy": "Բացի այդ՝ չես կարող իմանալ։"
+    },
+    {
+      "id": "cap20-line-258",
+      "start": 937,
+      "timeLabel": "15:37",
+      "text": "¿Y si?",
+      "hy": "Իսկ եթե..."
+    },
+    {
+      "id": "cap20-line-259",
+      "start": 937,
+      "timeLabel": "15:37",
+      "text": "¿Te pones así?",
+      "hy": "Այդպե՞ս ես վարվում։"
+    },
+    {
+      "id": "cap20-line-260",
+      "start": 938,
+      "timeLabel": "15:38",
+      "text": "Si no querés hablar.",
+      "hy": "Եթե չես ուզում խոսել։"
+    },
+    {
+      "id": "cap20-line-261",
+      "start": 939,
+      "timeLabel": "15:39",
+      "text": "¿Te enojas?",
+      "hy": "Բարկանո՞ւմ ես։"
+    },
+    {
+      "id": "cap20-line-262",
+      "start": 940,
+      "timeLabel": "15:40",
+      "text": "¿Doma 2 o 4?",
+      "hy": "Երկուսին գումարած երկուս՝ չորս։"
+    },
+    {
+      "id": "cap20-line-263",
+      "start": 941,
+      "timeLabel": "15:41",
+      "text": "¿O son virgen?",
+      "hy": "Ուրեմն կո՞ւյս ես։"
+    },
+    {
+      "id": "cap20-line-264",
+      "start": 941,
+      "timeLabel": "15:41",
+      "text": "Bueno, sí, soy virgen.",
+      "hy": "Լավ, այո՛, կույս եմ։"
+    },
+    {
+      "id": "cap20-line-265",
+      "start": 942,
+      "timeLabel": "15:42",
+      "text": "¿Y cuál es el problema?",
+      "hy": "Եվ ո՞րն է խնդիրը։"
+    },
+    {
+      "id": "cap20-line-266",
+      "start": 943,
+      "timeLabel": "15:43",
+      "text": "¡A lo grito soy virgen!",
+      "hy": "Բարձրաձայն գոռում եմ՝ կույս եմ։"
+    },
+    {
+      "id": "cap20-line-267",
+      "start": 947,
+      "timeLabel": "15:47",
+      "text": "Nadie dijo eso.",
+      "hy": "Ոչ ոք այդպիսի բան չասաց։"
+    },
+    {
+      "id": "cap20-line-268",
+      "start": 949,
+      "timeLabel": "15:49",
+      "text": "Por cierto, a mí no me gustan esas cosas de...",
+      "hy": "Ի դեպ, ինձ դուր չեն գալիս այդ տեսակի բաները..."
+    },
+    {
+      "id": "cap20-line-269",
+      "start": 952,
+      "timeLabel": "15:52",
+      "text": "Bueno, cambiame, ¿tienes que hacerte de boca, macho?",
+      "hy": "Լավ, թեման փոխենք, պետք է «Բոկայի» երկրպագու դառնաս, ախպեր։"
+    },
+    {
+      "id": "cap20-line-270",
+      "start": 955,
+      "timeLabel": "15:55",
+      "text": "Me voy a hacer de boca.",
+      "hy": "Կդառնամ «Բոկայի» երկրպագու։"
+    },
+    {
+      "id": "cap20-line-271",
+      "start": 958,
+      "timeLabel": "15:58",
+      "text": "Todas almosas.",
+      "hy": "Բոլորը գեղեցիկ են։"
+    },
+    {
+      "id": "cap20-line-272",
+      "start": 961,
+      "timeLabel": "16:01",
+      "text": "¿Viste que está ni cada vez?",
+      "hy": "Դու «Տիտանիկ»-ը երբևէ տեսե՞լ ես։"
+    },
+    {
+      "id": "cap20-line-273",
+      "start": 964,
+      "timeLabel": "16:04",
+      "text": "Yo creo que no la vi.",
+      "hy": "Կարծում եմ՝ չեմ տեսել։"
+    },
+    {
+      "id": "cap20-line-274",
+      "start": 965,
+      "timeLabel": "16:05",
+      "text": "Bueno, en esa película, Leonardo DiCaprio pinta a la protagonista.",
+      "hy": "Դե, այդ ֆիլմում Լեոնարդո Դի Կապրիոն նկարում է գլխավոր հերոսուհուն։"
+    },
+    {
+      "id": "cap20-line-275",
+      "start": 969,
+      "timeLabel": "16:09",
+      "text": "¿Ah?",
+      "hy": "Ա՜։"
+    },
+    {
+      "id": "cap20-line-276",
+      "start": 969,
+      "timeLabel": "16:09",
+      "text": "Ella pose para él.",
+      "hy": "Նա կեցվածք է ընդունում նրա համար։"
+    },
+    {
+      "id": "cap20-line-277",
+      "start": 971,
+      "timeLabel": "16:11",
+      "text": "Y yo quiero que pose como esa protagonista.",
+      "hy": "Եվ ես ուզում եմ, որ դու այդ հերոսուհու պես կեցվածք ընդունես։"
+    },
+    {
+      "id": "cap20-line-278",
+      "start": 975,
+      "timeLabel": "16:15",
+      "text": "Sí, quiero pintarte.",
+      "hy": "Այո՛, ուզում եմ քեզ նկարել։"
+    },
+    {
+      "id": "cap20-line-279",
+      "start": 976,
+      "timeLabel": "16:16",
+      "text": "Estás en perro.",
+      "hy": "Դու լո՞ւրջ ես ասում / գժվե՞լ ես։"
+    },
+    {
+      "id": "cap20-line-280",
+      "start": 977,
+      "timeLabel": "16:17",
+      "text": "¿En serio?",
+      "hy": "Իսկապե՞ս։"
+    },
+    {
+      "id": "cap20-line-281",
+      "start": 978,
+      "timeLabel": "16:18",
+      "text": "A mí pintarme.",
+      "hy": "Ի՞նձ նկարես։"
+    },
+    {
+      "id": "cap20-line-282",
+      "start": 979,
+      "timeLabel": "16:19",
+      "text": "Sí, ¿qué te quiero pintar?",
+      "hy": "Այո՛, ուզում եմ քեզ նկարել։"
+    },
+    {
+      "id": "cap20-line-283",
+      "start": 980,
+      "timeLabel": "16:20",
+      "text": "Fue loco, estaría barba, pero nadie me pintó nunca.",
+      "hy": "Վա՜յ, ընկեր, հիանալի կլինի, ինձ երբեք ոչ ոք չի նկարել։"
+    },
+    {
+      "id": "cap20-line-284",
+      "start": 983,
+      "timeLabel": "16:23",
+      "text": "Ni siquiera en la habitación me pintaron.",
+      "hy": "Նույնիսկ դպրոցում / սենյակում չեն նկարել։"
+    },
+    {
+      "id": "cap20-line-285",
+      "start": 988,
+      "timeLabel": "16:28",
+      "text": "Igualito, igualito que la mina del Titanic.",
+      "hy": "Ճիշտ ու ճիշտ «Տիտանիկ»-ի աղջկա պե՞ս։"
+    },
+    {
+      "id": "cap20-line-286",
+      "start": 990,
+      "timeLabel": "16:30",
+      "text": "Exactamente, igual.",
+      "hy": "Ճիշտ ու ճիշտ նույն ձևով։"
+    },
+    {
+      "id": "cap20-line-287",
+      "start": 993,
+      "timeLabel": "16:33",
+      "text": "Mira que si miras la mano es una promesa, campeón, ¿eh?",
+      "hy": "Տես՝ ձեռք սեղմելը խոստում է, չեմպիոն, հա՞։"
+    },
+    {
+      "id": "cap20-line-288",
+      "start": 996,
+      "timeLabel": "16:36",
+      "text": "Es mi promesa.",
+      "hy": "Իմ խոստումն է։"
+    },
+    {
+      "id": "cap20-line-289",
+      "start": 996,
+      "timeLabel": "16:36",
+      "text": "Y la mía de mi madre",
+      "hy": "Եվ իմը՝ մորս արև։"
+    },
+    {
+      "id": "cap20-line-290",
+      "start": 1000,
+      "timeLabel": "16:40",
+      "text": "de la",
+      "hy": "Այդ..."
+    },
+    {
+      "id": "cap20-line-291",
+      "start": 1002,
+      "timeLabel": "16:42",
+      "text": "Está bueno, está bueno",
+      "hy": "Լավ է, լավ է։"
+    },
+    {
+      "id": "cap20-line-292",
+      "start": 1031,
+      "timeLabel": "17:11",
+      "text": "de la mañana.",
+      "hy": "Առավոտվա։"
+    },
+    {
+      "id": "cap20-line-293",
+      "start": 1040,
+      "timeLabel": "17:20",
+      "text": "No es un lugar lleno de gente.",
+      "hy": "Մարդաշատ տեղ չէ։"
+    },
+    {
+      "id": "cap20-line-294",
+      "start": 1043,
+      "timeLabel": "17:23",
+      "text": "Ay, no me lo digas, chica.",
+      "hy": "Ա՜խ, մի՛ ասա, աղջի՛կ։"
+    },
+    {
+      "id": "cap20-line-295",
+      "start": 1044,
+      "timeLabel": "17:24",
+      "text": "Me pone el mal nervioso.",
+      "hy": "Ավելի շատ եմ լարվում։"
+    },
+    {
+      "id": "cap20-line-296",
+      "start": 1048,
+      "timeLabel": "17:28",
+      "text": "Sí, te merece.",
+      "hy": "Այո՛, արժանի ես։"
+    },
+    {
+      "id": "cap20-line-297",
+      "start": 1055,
+      "timeLabel": "17:35",
+      "text": "Qué gracia.",
+      "hy": "Ինչ ծիծաղելի է։"
+    },
+    {
+      "id": "cap20-line-298",
+      "start": 1056,
+      "timeLabel": "17:36",
+      "text": "Ahora me cae.",
+      "hy": "Հիմա կընկնեմ։"
+    },
+    {
+      "id": "cap20-line-299",
+      "start": 1057,
+      "timeLabel": "17:37",
+      "text": "No.",
+      "hy": "Ո՛չ։"
+    },
+    {
+      "id": "cap20-line-300",
+      "start": 1058,
+      "timeLabel": "17:38",
+      "text": "No.",
+      "hy": "Ո՛չ։"
+    },
+    {
+      "id": "cap20-line-301",
+      "start": 1058,
+      "timeLabel": "17:38",
+      "text": "Ahora me cae.",
+      "hy": "Հիմա կընկնեմ։"
+    },
+    {
+      "id": "cap20-line-302",
+      "start": 1059,
+      "timeLabel": "17:39",
+      "text": "No.",
+      "hy": "Ո՛չ։"
+    },
+    {
+      "id": "cap20-line-303",
+      "start": 1059,
+      "timeLabel": "17:39",
+      "text": "No.",
+      "hy": "Ո՛չ։"
+    },
+    {
+      "id": "cap20-line-304",
+      "start": 1060,
+      "timeLabel": "17:40",
+      "text": "No.",
+      "hy": "Ո՛չ։"
+    },
+    {
+      "id": "cap20-line-305",
+      "start": 1060,
+      "timeLabel": "17:40",
+      "text": "y",
+      "hy": "Եվ..."
+    },
+    {
+      "id": "cap20-line-306",
+      "start": 1069,
+      "timeLabel": "17:49",
+      "text": "de la",
+      "hy": "Այդ..."
+    },
+    {
+      "id": "cap20-line-307",
+      "start": 1077,
+      "timeLabel": "17:57",
+      "text": "y",
+      "hy": "Եվ..."
+    },
+    {
+      "id": "cap20-line-308",
+      "start": 1081,
+      "timeLabel": "18:01",
+      "text": "y nos vemos en el próximo vídeo.",
+      "hy": "Եվ կհանդիպենք հաջորդ տեսանյութում (ավտոմատ ենթագիր)։"
+    },
+    {
+      "id": "cap20-line-309",
+      "start": 1086,
+      "timeLabel": "18:06",
+      "text": "No hace falta que me digas nada.",
+      "hy": "Կարիք չկա, որ ինձ որևէ բան ասես։"
+    },
+    {
+      "id": "cap20-line-310",
+      "start": 1088,
+      "timeLabel": "18:08",
+      "text": "No la pongas así, porque a mí no me puede meter.",
+      "hy": "Այդպես մի՛ ձևացրու, որովհետև ինձ չես կարող խաբել։"
+    },
+    {
+      "id": "cap20-line-311",
+      "start": 1092,
+      "timeLabel": "18:12",
+      "text": "Yo sé perfectamente que vos te gusta a mí también.",
+      "hy": "Ես շատ լավ գիտեմ, որ քեզ էլ է նա դուր գալիս։"
+    },
+    {
+      "id": "cap20-line-312",
+      "start": 1099,
+      "timeLabel": "18:19",
+      "text": "No quiero pensar en él, ¿sabes?",
+      "hy": "Չեմ ուզում նրա մասին մտածել, գիտե՞ս։"
+    },
+    {
+      "id": "cap20-line-313",
+      "start": 1101,
+      "timeLabel": "18:21",
+      "text": "A ver, ¿y por qué no?",
+      "hy": "Դե ասա՝ ինչո՞ւ ոչ։"
+    },
+    {
+      "id": "cap20-line-314",
+      "start": 1114,
+      "timeLabel": "18:34",
+      "text": "que...",
+      "hy": "Որ..."
+    },
+    {
+      "id": "cap20-line-315",
+      "start": 1116,
+      "timeLabel": "18:36",
+      "text": "No me iba a enamorarnos.",
+      "hy": "Երբեք չէի սիրահարվելու։"
+    },
+    {
+      "id": "cap20-line-316",
+      "start": 1123,
+      "timeLabel": "18:43",
+      "text": "Pero tu mamá está muerta.",
+      "hy": "Բայց քո մայրիկը մահացած է։"
+    },
+    {
+      "id": "cap20-line-317",
+      "start": 1129,
+      "timeLabel": "18:49",
+      "text": "Pero se lo prometí en su tumba.",
+      "hy": "Բայց նրա գերեզմանի մոտ խոստացել եմ։"
+    },
+    {
+      "id": "cap20-line-318",
+      "start": 1131,
+      "timeLabel": "18:51",
+      "text": "Mira, yo estoy segura que vos...",
+      "hy": "Լսի՛ր, ես վստահ եմ, որ դու..."
+    },
+    {
+      "id": "cap20-line-319",
+      "start": 1133,
+      "timeLabel": "18:53",
+      "text": "...las encontrás un bonboncito, que te trates bien y que te quiera mucho, que te diga palabras de amor,",
+      "hy": "...կգտնես մի հրաշալի տղա, որը քեզ լավ կվերաբերվի ու շատ կսիրի, սիրո խոսքեր կասի,"
+    },
+    {
+      "id": "cap20-line-320",
+      "start": 1138,
+      "timeLabel": "18:58",
+      "text": "que te diga que sos hermosa, que te diga todas cosas que nos...",
+      "hy": "կասի, որ գեղեցիկ ես, կասի բոլոր այն բաները, որ..."
+    },
+    {
+      "id": "cap20-line-321",
+      "start": 1141,
+      "timeLabel": "19:01",
+      "text": "¿No sabes de que se murió mi mamá?",
+      "hy": "Չգիտե՞ս՝ ինչից մահացավ մայրս։"
+    },
+    {
+      "id": "cap20-line-322",
+      "start": 1144,
+      "timeLabel": "19:04",
+      "text": "¿Sabes?",
+      "hy": "Գիտե՞ս։"
+    },
+    {
+      "id": "cap20-line-323",
+      "start": 1144,
+      "timeLabel": "19:04",
+      "text": "No.",
+      "hy": "Ո՛չ։"
+    },
+    {
+      "id": "cap20-line-324",
+      "start": 1148,
+      "timeLabel": "19:08",
+      "text": "Mi mamá se murió de amor.",
+      "hy": "Մայրս սիրուց մահացավ։"
+    },
+    {
+      "id": "cap20-line-325",
+      "start": 1152,
+      "timeLabel": "19:12",
+      "text": "Mi mamá, no te ha muerto.",
+      "hy": "Մայրս՝ մահացած է։"
+    },
+    {
+      "id": "cap20-line-326",
+      "start": 1156,
+      "timeLabel": "19:16",
+      "text": "¿Mi viejo no?",
+      "hy": "Իսկ հայրս՝ ոչ։"
+    },
+    {
+      "id": "cap20-line-327",
+      "start": 1159,
+      "timeLabel": "19:19",
+      "text": "¿Y la moto?",
+      "hy": "Իսկ մոտոցիկլե՞տը / նրան սպանե՞ց։"
+    },
+    {
+      "id": "cap20-line-328",
+      "start": 1171,
+      "timeLabel": "19:31",
+      "text": "Hasta lo único que tengo de ella.",
+      "hy": "Սա միակ բանն է, որ ունեմ նրանից։"
+    },
+    {
+      "id": "cap20-line-329",
+      "start": 1174,
+      "timeLabel": "19:34",
+      "text": "Cada vez que la miro me acuerdas.",
+      "hy": "Ամեն անգամ, երբ նայում եմ դրան, հիշում եմ։"
+    },
+    {
+      "id": "cap20-line-330",
+      "start": 1178,
+      "timeLabel": "19:38",
+      "text": "Inevitablemente me acuerdo de mi viejo.",
+      "hy": "Անխուսափելիորեն հիշում եմ հորս։"
+    },
+    {
+      "id": "cap20-line-331",
+      "start": 1181,
+      "timeLabel": "19:41",
+      "text": "Pero, ¿por qué no me dijiste que tu papá no lo conociste, miren?",
+      "hy": "Բայց ինչո՞ւ չասացիր, որ հորդ չես ճանաչել, Միլի։"
+    },
+    {
+      "id": "cap20-line-332",
+      "start": 1186,
+      "timeLabel": "19:46",
+      "text": "Pregúndelo y ve con nosotros, ¿sabes?",
+      "hy": "Եթե մի օր նրան հանդիպեմ, գիտե՞ս..."
+    },
+    {
+      "id": "cap20-line-333",
+      "start": 1190,
+      "timeLabel": "19:50",
+      "text": "le voy a hacer pagar",
+      "hy": "նրան վճարել եմ տալու"
+    },
+    {
+      "id": "cap20-line-334",
+      "start": 1192,
+      "timeLabel": "19:52",
+      "text": "todo lo que le hizo mi madre.",
+      "hy": "այն ամենի համար, ինչ արեց մորս։"
+    },
+    {
+      "id": "cap20-line-335",
+      "start": 1196,
+      "timeLabel": "19:56",
+      "text": "Puedes ver cómo vas a salvar reconozarlo cuando lo veas y bueno lo conociste nunca.",
+      "hy": "Բայց ինչպե՞ս ես կարողանալու նրան ճանաչել, երբ տեսնես, եթե երբեք չես ճանաչել։"
+    },
+    {
+      "id": "cap20-line-336",
+      "start": 1206,
+      "timeLabel": "20:06",
+      "text": "El corazón me va a la tirasí y me va a decir ese.",
+      "hy": "Սիրտս այնպես է բաբախելու ու ինձ ասելու՝ հենց նա է։"
+    },
+    {
+      "id": "cap20-line-337",
+      "start": 1210,
+      "timeLabel": "20:10",
+      "text": "Y si se te creen de adelante.",
+      "hy": "Իսկ եթե հենց առջևդ կանգնած լինի։"
+    },
+    {
+      "id": "cap20-line-338",
+      "start": 1214,
+      "timeLabel": "20:14",
+      "text": "Ay, lo tienes.",
+      "hy": "Ահա՛, հենց դա է։"
+    },
+    {
+      "id": "cap20-line-339",
+      "start": 1216,
+      "timeLabel": "20:16",
+      "text": "Hará vengan.",
+      "hy": "Հիմա կտեսնես։"
+    },
+    {
+      "id": "cap20-line-340",
+      "start": 1219,
+      "timeLabel": "20:19",
+      "text": "Bueno, tan nerviosa que la cara la tengo hecho...",
+      "hy": "Դե, այնքան լարված եմ, որ դեմքս դարձել է..."
+    },
+    {
+      "id": "cap20-line-341",
+      "start": 1222,
+      "timeLabel": "20:22",
+      "text": "¡Muy, muy, muy bien!",
+      "hy": "Շա՛տ, շա՛տ, շա՛տ լավ։"
+    },
+    {
+      "id": "cap20-line-342",
+      "start": 1222,
+      "timeLabel": "20:22",
+      "text": "¡No, tranquila!",
+      "hy": "Ո՛չ, հանգի՛ստ։"
+    },
+    {
+      "id": "cap20-line-343",
+      "start": 1223,
+      "timeLabel": "20:23",
+      "text": "No es para tanto, es bien...",
+      "hy": "Այդքան էլ սարսափելի չէ, շատ լավ է..."
+    },
+    {
+      "id": "cap20-line-344",
+      "start": 1224,
+      "timeLabel": "20:24",
+      "text": "No nada, no hay que que que te abierras, que te eché la gamba para esto, pero no loco.",
+      "hy": "Ոչինչ, պետք չէր այդքան անհանգստանալ, որ ինձ օգնես սրա համար, ընկե՛ր։"
+    },
+    {
+      "id": "cap20-line-345",
+      "start": 1239,
+      "timeLabel": "20:39",
+      "text": "¿Qué?",
+      "hy": "Ի՞նչ։"
+    },
+    {
+      "id": "cap20-line-346",
+      "start": 1239,
+      "timeLabel": "20:39",
+      "text": "¿Qué haces?",
+      "hy": "Ի՞նչ ես անում։"
+    },
+    {
+      "id": "cap20-line-347",
+      "start": 1240,
+      "timeLabel": "20:40",
+      "text": "¿A ver qué haces?",
+      "hy": "Տեսնեմ՝ ի՞նչ ես անում։"
+    },
+    {
+      "id": "cap20-line-348",
+      "start": 1241,
+      "timeLabel": "20:41",
+      "text": "¡Relaja, tío!",
+      "hy": "Հանգստացի՛ր, ախպեր։"
+    },
+    {
+      "id": "cap20-line-349",
+      "start": 1246,
+      "timeLabel": "20:46",
+      "text": "Conmigo adentro.",
+      "hy": "Ինձ հետ ներսում։"
+    },
+    {
+      "id": "cap20-line-350",
+      "start": 1248,
+      "timeLabel": "20:48",
+      "text": "Yo no voy a estar adentro del cuadro, o sea, me van a pintar a mí.",
+      "hy": "Ես նկարի ներսում չեմ լինելու, այսինքն՝ ինձ են նկարելու։"
+    },
+    {
+      "id": "cap20-line-351",
+      "start": 1252,
+      "timeLabel": "20:52",
+      "text": "Pero no en la piel.",
+      "hy": "Բայց ոչ թե մաշկիս վրա։"
+    },
+    {
+      "id": "cap20-line-352",
+      "start": 1253,
+      "timeLabel": "20:53",
+      "text": "¿Entiendes lo que estoy diciendo?",
+      "hy": "Հասկանո՞ւմ ես՝ ինչ եմ ասում։"
+    },
+    {
+      "id": "cap20-line-353",
+      "start": 1254,
+      "timeLabel": "20:54",
+      "text": "Estoy diciendo que tú pides en el modo.",
+      "hy": "Ասում եմ՝ դու կեցվածք ես ընդունելու։"
+    },
+    {
+      "id": "cap20-line-354",
+      "start": 1255,
+      "timeLabel": "20:55",
+      "text": "¿No estás diciendo que te van a usar, que te van a pintar como modelo?",
+      "hy": "Չե՞ս ասում, որ քեզ որպես մոդել են նկարելու։"
+    },
+    {
+      "id": "cap20-line-355",
+      "start": 1258,
+      "timeLabel": "20:58",
+      "text": "Exactamente, vas a ser una tops model.",
+      "hy": "Ճիշտ է, թոփ-մոդել ես դառնալու։"
+    },
+    {
+      "id": "cap20-line-356",
+      "start": 1260,
+      "timeLabel": "21:00",
+      "text": "¡Ay, buenísimo mío!",
+      "hy": "Ա՜խ, Աստված իմ, հիանալի է։"
+    },
+    {
+      "id": "cap20-line-357",
+      "start": 1261,
+      "timeLabel": "21:01",
+      "text": "¡Espera!",
+      "hy": "Սպասի՛ր։"
+    },
+    {
+      "id": "cap20-line-358",
+      "start": 1262,
+      "timeLabel": "21:02",
+      "text": "¡Vaya!",
+      "hy": "Գնա՛ / վա՜յ։"
+    },
+    {
+      "id": "cap20-line-359",
+      "start": 1265,
+      "timeLabel": "21:05",
+      "text": "¿Qué es un pintor que va a pintar a esta?",
+      "hy": "Ո՞ր նկարիչն է սրան նկարելու։"
+    },
+    {
+      "id": "cap20-line-360",
+      "start": 1268,
+      "timeLabel": "21:08",
+      "text": "Ay, no digas eso, no.",
+      "hy": "Ա՜խ, այդպես մի՛ ասա, չէ։"
+    },
+    {
+      "id": "cap20-line-361",
+      "start": 1269,
+      "timeLabel": "21:09",
+      "text": "La parte esta tiene nombre.",
+      "hy": "Բացի այդ՝ սա անուն ունի։"
+    },
+    {
+      "id": "cap20-line-362",
+      "start": 1270,
+      "timeLabel": "21:10",
+      "text": "Claro",
+      "hy": "Իհարկե։"
+    },
+    {
+      "id": "cap20-line-363",
+      "start": 1273,
+      "timeLabel": "21:13",
+      "text": "porque te dice esta, porque esa...",
+      "hy": "Որովհետև քեզ «սա» է ասում, որովհետև նա..."
+    },
+    {
+      "id": "cap20-line-364",
+      "start": 1276,
+      "timeLabel": "21:16",
+      "text": "Por la herida de Nidia.",
+      "hy": "Նախանձից է այրվում։"
+    },
+    {
+      "id": "cap20-line-365",
+      "start": 1277,
+      "timeLabel": "21:17",
+      "text": "Ay, sí, mira cómo es tan bueno.",
+      "hy": "Ա՜խ, այո՛, տես՝ ինչպես է նայում։"
+    },
+    {
+      "id": "cap20-line-366",
+      "start": 1279,
+      "timeLabel": "21:19",
+      "text": "Por supuesto que te morís de envíe.",
+      "hy": "Իհարկե, նախանձից մեռնում ես։"
+    },
+    {
+      "id": "cap20-line-367",
+      "start": 1280,
+      "timeLabel": "21:20",
+      "text": "Tata, ¿se querés matar cuando me veas pintada?",
+      "hy": "Տատա՛, երբ ինձ նկարված տեսնես, կմեռնես։"
+    },
+    {
+      "id": "cap20-line-368",
+      "start": 1282,
+      "timeLabel": "21:22",
+      "text": "Si me veas matar.",
+      "hy": "Այո՛, հաստատ կմեռնեմ։"
+    },
+    {
+      "id": "cap20-line-369",
+      "start": 1283,
+      "timeLabel": "21:23",
+      "text": "Bueno, ¿y se puede saber quién es el pintor?",
+      "hy": "Լավ, իսկ կարելի՞ է իմանալ՝ ով է նկարիչը։"
+    },
+    {
+      "id": "cap20-line-370",
+      "start": 1285,
+      "timeLabel": "21:25",
+      "text": "No, no se puede, porque es un secreto.",
+      "hy": "Ո՛չ, չի կարելի, որովհետև գաղտնիք է։"
+    },
+    {
+      "id": "cap20-line-371",
+      "start": 1286,
+      "timeLabel": "21:26",
+      "text": "Ay, mamá, no te digo, estás mintiendo.",
+      "hy": "Ա՜խ, մայրի՛կ, չեմ ասո՞ւմ՝ ստում է։"
+    },
+    {
+      "id": "cap20-line-372",
+      "start": 1289,
+      "timeLabel": "21:29",
+      "text": "Sí, ya vas a ver que mentira que es cuando me veas pintada.",
+      "hy": "Այո՛, դեռ կտեսնես՝ ինչ սուտ է, երբ ինձ նկարված տեսնես։"
+    },
+    {
+      "id": "cap20-line-373",
+      "start": 1291,
+      "timeLabel": "21:31",
+      "text": "Tata, ¿te vas a morir, negra?",
+      "hy": "Տատա՛, շոկի մեջ ես ընկնելու, աղջի՛կ։"
+    },
+    {
+      "id": "cap20-line-374",
+      "start": 1292,
+      "timeLabel": "21:32",
+      "text": "Igualita, igualita que la minita del Titanic que me van a pintar, para que sepas.",
+      "hy": "Որ իմանաս՝ ինձ ճիշտ ու ճիշտ «Տիտանիկ»-ի աղջկա պես են նկարելու։"
+    },
+    {
+      "id": "cap20-line-375",
+      "start": 1296,
+      "timeLabel": "21:36",
+      "text": "Ay, yo vi esa película.",
+      "hy": "Ա՜խ, ես այդ ֆիլմը տեսել եմ։"
+    },
+    {
+      "id": "cap20-line-376",
+      "start": 1298,
+      "timeLabel": "21:38",
+      "text": "Ah, no, bueno, socorritos, pero...",
+      "hy": "Ա՜, ոչ, լավ, Սոկոռիտո, բայց..."
+    },
+    {
+      "id": "cap20-line-377",
+      "start": 1299,
+      "timeLabel": "21:39",
+      "text": "Yo también vi esa película.",
+      "hy": "Ես էլ եմ այդ ֆիլմը տեսել։"
+    },
+    {
+      "id": "cap20-line-378",
+      "start": 1302,
+      "timeLabel": "21:42",
+      "text": "Mili, en esa película la minita la...",
+      "hy": "Միլի՛, այդ ֆիլմում աղջկան..."
+    },
+    {
+      "id": "cap20-line-379",
+      "start": 1305,
+      "timeLabel": "21:45",
+      "text": "la pintan así como en volágenas y nada.",
+      "hy": "նկարում են այսպես՝ ամբողջովին մերկ, առանց ոչնչի։"
+    },
+    {
+      "id": "cap20-line-380",
+      "start": 1307,
+      "timeLabel": "21:47",
+      "text": "Desruda, nena.",
+      "hy": "Մե՛րկ, աղջի՛կ։"
+    },
+    {
+      "id": "cap20-line-381",
+      "start": 1322,
+      "timeLabel": "22:02",
+      "text": "Señor Bernardo, le dije.",
+      "hy": "«Պարոն Բեռնարդո», ասացի ձեզ։"
+    },
+    {
+      "id": "cap20-line-382",
+      "start": 1322,
+      "timeLabel": "22:02",
+      "text": "Está bien, señor Bernardo, le quiero decir una cosa.",
+      "hy": "Լավ, պարոն Բեռնարդո, ձեզ մի բան եմ ուզում ասել։"
+    },
+    {
+      "id": "cap20-line-383",
+      "start": 1324,
+      "timeLabel": "22:04",
+      "text": "Señor Bernardo, le dije.",
+      "hy": "«Պարոն Բեռնարդո», ասացի ձեզ։"
+    },
+    {
+      "id": "cap20-line-384",
+      "start": 1324,
+      "timeLabel": "22:04",
+      "text": "Está bien, señor Bernardo.",
+      "hy": "Լավ, պարոն Բեռնարդո։"
+    },
+    {
+      "id": "cap20-line-385",
+      "start": 1331,
+      "timeLabel": "22:11",
+      "text": "Sí loí, pero no entiendo nada.",
+      "hy": "Այո՛, տեսա, բայց ոչինչ չեմ հասկանում։"
+    },
+    {
+      "id": "cap20-line-386",
+      "start": 1333,
+      "timeLabel": "22:13",
+      "text": "Bueno, no importa, después lo explico usted.",
+      "hy": "Լավ, կարևոր չէ, հետո կբացատրեմ ձեզ։"
+    },
+    {
+      "id": "cap20-line-387",
+      "start": 1334,
+      "timeLabel": "22:14",
+      "text": "¡Déme la bandeja que lo voy a llevar!",
+      "hy": "Տվե՛ք ինձ սկուտեղը, ես կտանեմ։"
+    },
+    {
+      "id": "cap20-line-388",
+      "start": 1335,
+      "timeLabel": "22:15",
+      "text": "No, yo les tengo que llamar...",
+      "hy": "Ո՛չ, ես պետք է տանեմ..."
+    },
+    {
+      "id": "cap20-line-389",
+      "start": 1336,
+      "timeLabel": "22:16",
+      "text": "¡Déme la bandeja!",
+      "hy": "Տվե՛ք սկուտեղը։"
+    },
+    {
+      "id": "cap20-line-390",
+      "start": 1336,
+      "timeLabel": "22:16",
+      "text": "¡Déme la bandeja!",
+      "hy": "Տվե՛ք սկուտեղը։"
+    },
+    {
+      "id": "cap20-line-391",
+      "start": 1337,
+      "timeLabel": "22:17",
+      "text": "¡Agarás la llave!",
+      "hy": "Վերցրե՛ք բանալին։"
+    },
+    {
+      "id": "cap20-line-392",
+      "start": 1338,
+      "timeLabel": "22:18",
+      "text": "¡Abrame!",
+      "hy": "Բացե՛ք ինձ համար։"
+    },
+    {
+      "id": "cap20-line-393",
+      "start": 1354,
+      "timeLabel": "22:34",
+      "text": "sos peor que tu primo, porque por lo menos él me vino de frente, en bolas pero de frente.",
+      "hy": "Դու քո զարմիկից էլ վատն ես, որովհետև գոնե նա ուղիղ եկավ՝ մերկ, բայց ուղիղ։"
+    },
+    {
+      "id": "cap20-line-394",
+      "start": 1359,
+      "timeLabel": "22:39",
+      "text": "Pero qué pasa, Meli, no entiendo nada.",
+      "hy": "Բայց ի՞նչ է պատահել, Միլի, ոչինչ չեմ հասկանում։"
+    },
+    {
+      "id": "cap20-line-395",
+      "start": 1361,
+      "timeLabel": "22:41",
+      "text": "Jamás me dijiste que la minita de la película estaba de enduida.",
+      "hy": "Երբեք չասացիր, որ ֆիլմի աղջիկը մերկ էր։"
+    },
+    {
+      "id": "cap20-line-396",
+      "start": 1364,
+      "timeLabel": "22:44",
+      "text": "Pero, ¿qué per...?",
+      "hy": "Բայց ո՞ր..."
+    },
+    {
+      "id": "cap20-line-397",
+      "start": 1364,
+      "timeLabel": "22:44",
+      "text": "¿Qué Titanic?",
+      "hy": "«Տիտանիկ»-ի՞։"
+    },
+    {
+      "id": "cap20-line-398",
+      "start": 1366,
+      "timeLabel": "22:46",
+      "text": "Bueno, pensé que la vías vista.",
+      "hy": "Դե մտածեցի՝ տեսել էիր։"
+    },
+    {
+      "id": "cap20-line-399",
+      "start": 1367,
+      "timeLabel": "22:47",
+      "text": "¡Mil veces!",
+      "hy": "Հազա՛ր անգամ։"
+    },
+    {
+      "id": "cap20-line-400",
+      "start": 1368,
+      "timeLabel": "22:48",
+      "text": "¡Mil veces!",
+      "hy": "Հազա՛ր անգամ։"
+    },
+    {
+      "id": "cap20-line-401",
+      "start": 1368,
+      "timeLabel": "22:48",
+      "text": "¡Mil veces!",
+      "hy": "Հազա՛ր անգամ։"
+    },
+    {
+      "id": "cap20-line-402",
+      "start": 1369,
+      "timeLabel": "22:49",
+      "text": "Te dije que no la vi, pero vos a mí no me vas a ver ni un pelo, ¿me entendiste?",
+      "hy": "Քեզ ասացի՝ չեմ տեսել, բայց դու ինձնից ոչ մի մազ էլ չես տեսնի, հասկացա՞ր։"
+    },
+    {
+      "id": "cap20-line-403",
+      "start": 1372,
+      "timeLabel": "22:52",
+      "text": "Para tranquilizar.",
+      "hy": "Կանգնի՛ր, հանգստացիր։"
+    },
+    {
+      "id": "cap20-line-404",
+      "start": 1373,
+      "timeLabel": "22:53",
+      "text": "Engañador.",
+      "hy": "Խաբեբա՛։"
+    },
+    {
+      "id": "cap20-line-405",
+      "start": 1374,
+      "timeLabel": "22:54",
+      "text": "No se dice engañador.",
+      "hy": "«Խաբեբա» չեն ասում։"
+    },
+    {
+      "id": "cap20-line-406",
+      "start": 1375,
+      "timeLabel": "22:55",
+      "text": "No, no se dice engañador.",
+      "hy": "Ո՛չ, «խաբեբա» չեն ասում։"
+    },
+    {
+      "id": "cap20-line-407",
+      "start": 1376,
+      "timeLabel": "22:56",
+      "text": "¿Cómo se dice?",
+      "hy": "Ինչպե՞ս են ասում։"
+    },
+    {
+      "id": "cap20-line-408",
+      "start": 1376,
+      "timeLabel": "22:56",
+      "text": "Mentiroso, se dice.",
+      "hy": "«Ստախոս» են ասում։"
+    },
+    {
+      "id": "cap20-line-409",
+      "start": 1377,
+      "timeLabel": "22:57",
+      "text": "Mentiroso.",
+      "hy": "Ստախո՛ս։"
+    },
+    {
+      "id": "cap20-line-410",
+      "start": 1378,
+      "timeLabel": "22:58",
+      "text": "Yo nunca te mentí, Mili.",
+      "hy": "Ես քեզ երբեք չեմ ստել, Միլի։"
+    },
+    {
+      "id": "cap20-line-411",
+      "start": 1379,
+      "timeLabel": "22:59",
+      "text": "Para un poquito.",
+      "hy": "Մի րոպե կանգնիր։"
+    },
+    {
+      "id": "cap20-line-412",
+      "start": 1380,
+      "timeLabel": "23:00",
+      "text": "¿No cambiamentiste?",
+      "hy": "Երբեք չե՞ս ստել ինձ։"
+    },
+    {
+      "id": "cap20-line-413",
+      "start": 1381,
+      "timeLabel": "23:01",
+      "text": "No, nunca te mentí.",
+      "hy": "Ո՛չ, երբեք չեմ ստել քեզ։"
+    },
+    {
+      "id": "cap20-line-414",
+      "start": 1381,
+      "timeLabel": "23:01",
+      "text": "¿Estás seguro que nunca me mentiste?",
+      "hy": "Վստա՞հ ես, որ երբեք չես ստել ինձ։"
+    },
+    {
+      "id": "cap20-line-415",
+      "start": 1382,
+      "timeLabel": "23:02",
+      "text": "No, no.",
+      "hy": "Ո՛չ, ո՛չ։"
+    },
+    {
+      "id": "cap20-line-416",
+      "start": 1385,
+      "timeLabel": "23:05",
+      "text": "Dame las manos.",
+      "hy": "Տո՛ւր ձեռքերդ։"
+    },
+    {
+      "id": "cap20-line-417",
+      "start": 1387,
+      "timeLabel": "23:07",
+      "text": "Que me des las manos.",
+      "hy": "Ասում եմ՝ տո՛ւր ձեռքերդ։"
+    },
+    {
+      "id": "cap20-line-418",
+      "start": 1391,
+      "timeLabel": "23:11",
+      "text": "¡Six!",
+      "hy": "Կա՛նգ առ։"
+    },
+    {
+      "id": "cap20-line-419",
+      "start": 1396,
+      "timeLabel": "23:16",
+      "text": "y ya termino.",
+      "hy": "Եվ արդեն վերջացնում եմ։"
+    },
+    {
+      "id": "cap20-line-420",
+      "start": 1399,
+      "timeLabel": "23:19",
+      "text": "Bueno, déjate de jurado.",
+      "hy": "Լավ, վերջ տուր հիմարություններին։"
+    },
+    {
+      "id": "cap20-line-421",
+      "start": 1403,
+      "timeLabel": "23:23",
+      "text": "Arriba.",
+      "hy": "Վե՛ր կաց։"
+    },
+    {
+      "id": "cap20-line-422",
+      "start": 1412,
+      "timeLabel": "23:32",
+      "text": "No es que no es sin nada.",
+      "hy": "Ոչ թե ոչինչ չէ..."
+    },
+    {
+      "id": "cap20-line-423",
+      "start": 1419,
+      "timeLabel": "23:39",
+      "text": "Pero no esperes nada más, baby.",
+      "hy": "Բայց ուրիշ ոչինչ մի՛ սպասիր, սիրելիս։"
+    },
+    {
+      "id": "cap20-line-424",
+      "start": 1422,
+      "timeLabel": "23:42",
+      "text": "Pero, ¿por qué, Emilio?",
+      "hy": "Բայց ինչո՞ւ, Միլի։"
+    },
+    {
+      "id": "cap20-line-425",
+      "start": 1432,
+      "timeLabel": "23:52",
+      "text": "Orviete de mi",
+      "hy": "Մոռացի՛ր ինձ։"
+    },
+    {
+      "id": "cap20-line-426",
+      "start": 1454,
+      "timeLabel": "24:14",
+      "text": "el desayuno.",
+      "hy": "Նախաճաշը։"
+    },
+    {
+      "id": "cap20-line-427",
+      "start": 1457,
+      "timeLabel": "24:17",
+      "text": "Muchas gracias.",
+      "hy": "Շատ շնորհակալություն։"
+    },
+    {
+      "id": "cap20-line-428",
+      "start": 1458,
+      "timeLabel": "24:18",
+      "text": "¿La señora decía algo más?",
+      "hy": "Տիկինը ուրիշ բան ցանկանո՞ւմ է։"
+    },
+    {
+      "id": "cap20-line-429",
+      "start": 1459,
+      "timeLabel": "24:19",
+      "text": "No, la señora no desea nada más.",
+      "hy": "Ո՛չ, տիկինը ուրիշ ոչինչ չի ցանկանում։"
+    },
+    {
+      "id": "cap20-line-430",
+      "start": 1460,
+      "timeLabel": "24:20",
+      "text": "Así que se va.",
+      "hy": "Այնպես որ գնացեք։"
+    },
+    {
+      "id": "cap20-line-431",
+      "start": 1461,
+      "timeLabel": "24:21",
+      "text": "Vamos, se va.",
+      "hy": "Դե, գնացեք։"
+    },
+    {
+      "id": "cap20-line-432",
+      "start": 1462,
+      "timeLabel": "24:22",
+      "text": "Sí, va, vamos.",
+      "hy": "Այո՛, գնում եմ, գնում եմ։"
+    },
+    {
+      "id": "cap20-line-433",
+      "start": 1463,
+      "timeLabel": "24:23",
+      "text": "Sí, señor, sí.",
+      "hy": "Այո՛, պարոն, այո՛։"
+    },
+    {
+      "id": "cap20-line-434",
+      "start": 1474,
+      "timeLabel": "24:34",
+      "text": "Anoche, tu hija de filón bombacha.",
+      "hy": "Երեկ գիշեր աղջիկդ ներքնազգեստով է ցուցադրությանը քայլել։"
+    },
+    {
+      "id": "cap20-line-435",
+      "start": 1477,
+      "timeLabel": "24:37",
+      "text": "¿En bombacha, no?",
+      "hy": "Վարտիքով, չէ՞։"
+    },
+    {
+      "id": "cap20-line-436",
+      "start": 1478,
+      "timeLabel": "24:38",
+      "text": "En lo interior.",
+      "hy": "Ներքնազգեստով։"
+    },
+    {
+      "id": "cap20-line-437",
+      "start": 1479,
+      "timeLabel": "24:39",
+      "text": "¿Qué?",
+      "hy": "Ի՞նչ։"
+    },
+    {
+      "id": "cap20-line-438",
+      "start": 1479,
+      "timeLabel": "24:39",
+      "text": "¿Yo qué dije?",
+      "hy": "Իսկ ես ի՞նչ էի ասել։"
+    },
+    {
+      "id": "cap20-line-439",
+      "start": 1479,
+      "timeLabel": "24:39",
+      "text": "Dije que no lo hiciera, me desobedeció.",
+      "hy": "Ասացի, որ չանի, իսկ նա չենթարկվեց ինձ։"
+    },
+    {
+      "id": "cap20-line-440",
+      "start": 1483,
+      "timeLabel": "24:43",
+      "text": "Ya...",
+      "hy": "Նա արդեն..."
+    },
+    {
+      "id": "cap20-line-441",
+      "start": 1484,
+      "timeLabel": "24:44",
+      "text": "ya sabe lo que hace.",
+      "hy": "արդեն գիտի՝ ինչ է անում։"
+    },
+    {
+      "id": "cap20-line-442",
+      "start": 1486,
+      "timeLabel": "24:46",
+      "text": "No, no sabe nada, nada sabe.",
+      "hy": "Ո՛չ, ոչինչ չգիտի, ոչինչ չգիտի։"
+    },
+    {
+      "id": "cap20-line-443",
+      "start": 1487,
+      "timeLabel": "24:47",
+      "text": "Es un irresponsable.",
+      "hy": "Անպատասխանատու է։"
+    },
+    {
+      "id": "cap20-line-444",
+      "start": 1489,
+      "timeLabel": "24:49",
+      "text": "Tiene que saber que me entabieron en esta casa.",
+      "hy": "Պետք է իմանա, որ քանի դեռ այս տանն է ապրում..."
+    },
+    {
+      "id": "cap20-line-445",
+      "start": 1490,
+      "timeLabel": "24:50",
+      "text": "Me debe respeto a mí.",
+      "hy": "ինձ հարգանք է պարտական։"
+    },
+    {
+      "id": "cap20-line-446",
+      "start": 1492,
+      "timeLabel": "24:52",
+      "text": "¿Alguna vez le enseñaste lo que es el respeto?",
+      "hy": "Երբևէ նրան սովորեցրե՞լ ես՝ ինչ է հարգանքը։"
+    },
+    {
+      "id": "cap20-line-447",
+      "start": 1503,
+      "timeLabel": "25:03",
+      "text": "¡Me lo juro!",
+      "hy": "Երդվում եմ։"
+    },
+    {
+      "id": "cap20-line-448",
+      "start": 1506,
+      "timeLabel": "25:06",
+      "text": "de los que se han hecho.",
+      "hy": "Այն ամենից, ինչ արվել է։"
+    },
+    {
+      "id": "cap20-line-449",
+      "start": 1510,
+      "timeLabel": "25:10",
+      "text": "Yo voy a decir algo para que no se te urre nunca más",
+      "hy": "Քեզ մի բան ասեմ, որ այլևս երբեք մտքովդ չանցնի՝"
+    },
+    {
+      "id": "cap20-line-450",
+      "start": 1514,
+      "timeLabel": "25:14",
+      "text": "pues a mí no me vas a dejar",
+      "hy": "դու ինձ չես լքելու,"
+    },
+    {
+      "id": "cap20-line-451",
+      "start": 1517,
+      "timeLabel": "25:17",
+      "text": "y mucho cuidado con meterme en los cuernos otra vez porque te puede pisar un auto.",
+      "hy": "և շատ զգույշ եղիր՝ նորից ինձ չդավաճանես, թե չէ կարող է մեքենայի տակ ընկնես։"
+    },
+    {
+      "id": "cap20-line-452",
+      "start": 1523,
+      "timeLabel": "25:23",
+      "text": "¿Soy cuanto me sale a mí que te piso el auto?",
+      "hy": "Գիտե՞ս ինձ ինչ արժե, որ քեզ մեքենա հարվածի։"
+    },
+    {
+      "id": "cap20-line-453",
+      "start": 1528,
+      "timeLabel": "25:28",
+      "text": "¿Pero que es?",
+      "hy": "Բայց ի՞նչ է։"
+    },
+    {
+      "id": "cap20-line-454",
+      "start": 1528,
+      "timeLabel": "25:28",
+      "text": "¿Pero que es?",
+      "hy": "Բայց ի՞նչ է։"
+    },
+    {
+      "id": "cap20-line-455",
+      "start": 1529,
+      "timeLabel": "25:29",
+      "text": "y",
+      "hy": "Եվ..."
+    },
+    {
+      "id": "cap20-line-456",
+      "start": 1541,
+      "timeLabel": "25:41",
+      "text": "Tenemos que hablar.",
+      "hy": "Պետք է խոսենք։"
+    },
+    {
+      "id": "cap20-line-457",
+      "start": 1542,
+      "timeLabel": "25:42",
+      "text": "No, no, ahora no.",
+      "hy": "Ո՛չ, ո՛չ, հիմա չէ։"
+    },
+    {
+      "id": "cap20-line-458",
+      "start": 1543,
+      "timeLabel": "25:43",
+      "text": "Ahora sí, ahora sí, contestame por favor.",
+      "hy": "Հենց հիմա՛, հենց հիմա՛, խնդրում եմ պատասխանիր ինձ։"
+    },
+    {
+      "id": "cap20-line-459",
+      "start": 1545,
+      "timeLabel": "25:45",
+      "text": "Estamos usando material de segunda en la obra de Núñez.",
+      "hy": "Նունյեսի շինարարությունում երկրորդ կարգի նյո՞ւթ ենք օգտագործում։"
+    },
+    {
+      "id": "cap20-line-460",
+      "start": 1548,
+      "timeLabel": "25:48",
+      "text": "Dejáte de hablar pavadas, ¿qué?",
+      "hy": "Վերջ տուր հիմարություններ խոսելուն, հա՞։"
+    },
+    {
+      "id": "cap20-line-461",
+      "start": 1549,
+      "timeLabel": "25:49",
+      "text": "No son pavadas, papá, por favor, en rajaduras.",
+      "hy": "Հիմարություններ չեն, հայրի՛կ, խնդրում եմ, ճաքեր կան։"
+    },
+    {
+      "id": "cap20-line-462",
+      "start": 1552,
+      "timeLabel": "25:52",
+      "text": "En tu cabeza hay rajaduras, déjame el paz.",
+      "hy": "Քո գլխում կան ճաքեր, հանգիստ թող ինձ։"
+    },
+    {
+      "id": "cap20-line-463",
+      "start": 1553,
+      "timeLabel": "25:53",
+      "text": "No te das cuenta que puede ser mucho más importante de lo que pensás.",
+      "hy": "Չե՞ս հասկանում, որ կարող է քո կարծածից շատ ավելի լուրջ լինել։"
+    },
+    {
+      "id": "cap20-line-464",
+      "start": 1556,
+      "timeLabel": "25:56",
+      "text": "Ajá, ajá",
+      "hy": "Ըհը, ըհը։"
+    },
+    {
+      "id": "cap20-line-465",
+      "start": 1569,
+      "timeLabel": "26:09",
+      "text": "y de la cuerda son...",
+      "hy": "Եվ խելամիտ եղիր..."
+    },
+    {
+      "id": "cap20-line-466",
+      "start": 1574,
+      "timeLabel": "26:14",
+      "text": "que a vos te gusta vestirte así, tener la camionetita y de algún lado tiene que salir la guita.",
+      "hy": "որ քեզ դուր է գալիս այսպես հագնվել, մեքենա ունենալ, ու ինչ-որ տեղից պետք է փողը գա։"
+    },
+    {
+      "id": "cap20-line-467",
+      "start": 1580,
+      "timeLabel": "26:20",
+      "text": "Lo relajate y goza, sobrino.",
+      "hy": "Դու թուլացիր ու վայելիր, զարմի՛կս։"
+    },
+    {
+      "id": "cap20-line-468",
+      "start": 1589,
+      "timeLabel": "26:29",
+      "text": "Me pone algún vestido lindo.",
+      "hy": "Մի սիրուն զգեստ կհագնեմ։"
+    },
+    {
+      "id": "cap20-line-469",
+      "start": 1590,
+      "timeLabel": "26:30",
+      "text": "No tengo ganas de vestirme, oi.",
+      "hy": "Այսօր հագնվելու տրամադրություն չունեմ։"
+    },
+    {
+      "id": "cap20-line-470",
+      "start": 1592,
+      "timeLabel": "26:32",
+      "text": "¿Cómo razón, doña, si no tiene ganas me va a caer en un pozo?",
+      "hy": "Իրավացի եք, տիկին, եթե տրամադրություն չունեք, ընկճախտի մեջ չընկնեք։"
+    },
+    {
+      "id": "cap20-line-471",
+      "start": 1595,
+      "timeLabel": "26:35",
+      "text": "¿Entendió?",
+      "hy": "Հասկացա՞ք։"
+    },
+    {
+      "id": "cap20-line-472",
+      "start": 1597,
+      "timeLabel": "26:37",
+      "text": "¡Ah!",
+      "hy": "Ա՜։"
+    },
+    {
+      "id": "cap20-line-473",
+      "start": 1597,
+      "timeLabel": "26:37",
+      "text": "Me salvó el gong.",
+      "hy": "Զանգը փրկեց ինձ։"
+    },
+    {
+      "id": "cap20-line-474",
+      "start": 1598,
+      "timeLabel": "26:38",
+      "text": "Tengo, me salvó.",
+      "hy": "Այո՛, ինձ փրկեց։"
+    },
+    {
+      "id": "cap20-line-475",
+      "start": 1599,
+      "timeLabel": "26:39",
+      "text": "¿Quién es?",
+      "hy": "Ո՞վ է։"
+    },
+    {
+      "id": "cap20-line-476",
+      "start": 1600,
+      "timeLabel": "26:40",
+      "text": "Y después se me cambió.",
+      "hy": "Եվ հետո կփոխեմ հագուստս։"
+    },
+    {
+      "id": "cap20-line-477",
+      "start": 1605,
+      "timeLabel": "26:45",
+      "text": "¿Avuela puedo hablar con vos?",
+      "hy": "Տատի՛կ, կարո՞ղ եմ քեզ հետ խոսել։"
+    },
+    {
+      "id": "cap20-line-478",
+      "start": 1606,
+      "timeLabel": "26:46",
+      "text": "Mh, bien suerte, doña.",
+      "hy": "Մհմ, բախտավոր եք, տիկին։"
+    },
+    {
+      "id": "cap20-line-479",
+      "start": 1608,
+      "timeLabel": "26:48",
+      "text": "Por lo menos usted la vino a ver con pantalones.",
+      "hy": "Գոնե ձեզ մոտ տաբատով է եկել տեսակցության։"
+    },
+    {
+      "id": "cap20-line-480",
+      "start": 1611,
+      "timeLabel": "26:51",
+      "text": "¿Están apreciando mujeres indefensas de nudo?",
+      "hy": "Անպաշտպան կանանց մերկ չի նայում։"
+    },
+    {
+      "id": "cap20-line-481",
+      "start": 1613,
+      "timeLabel": "26:53",
+      "text": "No estoy de humor, Carlitos.",
+      "hy": "Տրամադրություն չունեմ, Կառլիտոս։"
+    },
+    {
+      "id": "cap20-line-482",
+      "start": 1615,
+      "timeLabel": "26:55",
+      "text": "Lo de Carlitos?",
+      "hy": "Այդ «Կառլիտոս»-ը"
+    },
+    {
+      "id": "cap20-line-483",
+      "start": 1616,
+      "timeLabel": "26:56",
+      "text": "Te lo puedes meter en el...",
+      "hy": "կարող ես քեզ պահել..."
+    },
+    {
+      "id": "cap20-line-484",
+      "start": 1617,
+      "timeLabel": "26:57",
+      "text": "¡Chip Pylagros!",
+      "hy": "Չի՛պ, Միլագրո՛ս։"
+    },
+    {
+      "id": "cap20-line-485",
+      "start": 1620,
+      "timeLabel": "27:00",
+      "text": "Nel Buche, ¿dónde ya?",
+      "hy": "Գրպանդ, տիկին։"
+    },
+    {
+      "id": "cap20-line-486",
+      "start": 1620,
+      "timeLabel": "27:00",
+      "text": "¿Qué se piensa que va a decir?",
+      "hy": "Ի՞նչ էիք կարծում՝ ինչ պիտի ասեի։"
+    },
+    {
+      "id": "cap20-line-487",
+      "start": 1626,
+      "timeLabel": "27:06",
+      "text": "Y bueno, le dije a Milagro lo que usted me ordenó decirle.",
+      "hy": "Դե, Միլագրոսին ասացի այն, ինչ դուք հրամայեցիք ասել։"
+    },
+    {
+      "id": "cap20-line-488",
+      "start": 1631,
+      "timeLabel": "27:11",
+      "text": "No creo que le guste la respuesta, señor.",
+      "hy": "Չեմ կարծում, որ պատասխանը ձեզ դուր գա, պարոն։"
+    },
+    {
+      "id": "cap20-line-489",
+      "start": 1634,
+      "timeLabel": "27:14",
+      "text": "Eso lo decido yo, decime qué te dijo.",
+      "hy": "Դա ես եմ որոշում, ասա՝ ինչ ասաց քեզ։"
+    },
+    {
+      "id": "cap20-line-490",
+      "start": 1636,
+      "timeLabel": "27:16",
+      "text": "Que...",
+      "hy": "Որ..."
+    },
+    {
+      "id": "cap20-line-491",
+      "start": 1637,
+      "timeLabel": "27:17",
+      "text": "si quiere verla, que vaya usted.",
+      "hy": "եթե ուզում եք նրան տեսնել, ինքներդ գնացեք։"
+    },
+    {
+      "id": "cap20-line-492",
+      "start": 1639,
+      "timeLabel": "27:19",
+      "text": "Perdón.",
+      "hy": "Ներողություն։"
+    },
+    {
+      "id": "cap20-line-493",
+      "start": 1640,
+      "timeLabel": "27:20",
+      "text": "Perdón, señor.",
+      "hy": "Ներողություն, պարոն։"
+    },
+    {
+      "id": "cap20-line-494",
+      "start": 1641,
+      "timeLabel": "27:21",
+      "text": "Que si quiere verla, que vayas caminando.",
+      "hy": "Որ եթե ուզում եք նրան տեսնել, քայլելով գնաք։"
+    },
+    {
+      "id": "cap20-line-495",
+      "start": 1650,
+      "timeLabel": "27:30",
+      "text": "¿Ves?",
+      "hy": "Տեսնո՞ւմ եք։"
+    },
+    {
+      "id": "cap20-line-496",
+      "start": 1651,
+      "timeLabel": "27:31",
+      "text": "Tení secas solo.",
+      "hy": "Այդպես մենակ պիտի մնաք։"
+    },
+    {
+      "id": "cap20-line-497",
+      "start": 1655,
+      "timeLabel": "27:35",
+      "text": "¿Me cuenta en joven que si tuviera el pelo un cachetito marrubio la confundiría con la mar y el limón",
+      "hy": "Գիտե՞ք, տիկին, եթե մազերդ մի քիչ ավելի շիկահեր լինեին, քեզ կշփոթեի Մերիլին Մոնրոյի հետ։"
+    },
+    {
+      "id": "cap20-line-498",
+      "start": 1659,
+      "timeLabel": "27:39",
+      "text": "roe?",
+      "hy": "Մոնրոյի՛։"
+    },
+    {
+      "id": "cap20-line-499",
+      "start": 1660,
+      "timeLabel": "27:40",
+      "text": "Mira que así de disparo, chaval.",
+      "hy": "Տես՝ ինչ արագ է փայլում, շքեղ է։"
+    },
+    {
+      "id": "cap20-line-500",
+      "start": 1663,
+      "timeLabel": "27:43",
+      "text": "Ya que está tan pituga, no quiere dar una vuelta.",
+      "hy": "Քանի որ այդքան շքեղ հագնված եք, չե՞ք ուզում մի պտույտ տալ։"
+    },
+    {
+      "id": "cap20-line-501",
+      "start": 1666,
+      "timeLabel": "27:46",
+      "text": "Es que voy a salir.",
+      "hy": "Բանն այն է, որ դուրս եմ գալու։"
+    },
+    {
+      "id": "cap20-line-502",
+      "start": 1667,
+      "timeLabel": "27:47",
+      "text": "¡Jolla!",
+      "hy": "Հիանալի՛ է։"
+    },
+    {
+      "id": "cap20-line-503",
+      "start": 1667,
+      "timeLabel": "27:47",
+      "text": "Digo, no.",
+      "hy": "Այսինքն՝ ոչ։"
+    },
+    {
+      "id": "cap20-line-504",
+      "start": 1668,
+      "timeLabel": "27:48",
+      "text": "¡Momento, momento!",
+      "hy": "Մի վայրկյան, մի վայրկյան։"
+    },
+    {
+      "id": "cap20-line-505",
+      "start": 1669,
+      "timeLabel": "27:49",
+      "text": "Increíble.",
+      "hy": "Անհավանական է։"
+    },
+    {
+      "id": "cap20-line-506",
+      "start": 1671,
+      "timeLabel": "27:51",
+      "text": "Satisfatorio.",
+      "hy": "Գոհացուցիչ է։"
+    },
+    {
+      "id": "cap20-line-507",
+      "start": 1673,
+      "timeLabel": "27:53",
+      "text": "¿Qué otra cansada puedo decir en vez de Jolla?",
+      "hy": "Էլ ի՞նչ խելացի բառ կարող եմ ասել «հիանալի»-ի փոխարեն։"
+    },
+    {
+      "id": "cap20-line-508",
+      "start": 1675,
+      "timeLabel": "27:55",
+      "text": "¡Lagros!",
+      "hy": "Միլագրո՛ս։"
+    },
+    {
+      "id": "cap20-line-509",
+      "start": 1677,
+      "timeLabel": "27:57",
+      "text": "No, no, je, me cambio y la espero abajo.",
+      "hy": "Ո՛չ, ո՛չ, կփոխվեմ ու ներքևում կսպասեմ ձեզ։"
+    },
+    {
+      "id": "cap20-line-510",
+      "start": 1679,
+      "timeLabel": "27:59",
+      "text": "¡Dijí!",
+      "hy": "Ասացի՛՝"
+    },
+    {
+      "id": "cap20-line-511",
+      "start": 1681,
+      "timeLabel": "28:01",
+      "text": "a salir.",
+      "hy": "ես եմ դուրս գալիս։"
+    },
+    {
+      "id": "cap20-line-512",
+      "start": 1682,
+      "timeLabel": "28:02",
+      "text": "No vamos a salir.",
+      "hy": "Մենք միասին դուրս չենք գալիս։"
+    },
+    {
+      "id": "cap20-line-513",
+      "start": 1685,
+      "timeLabel": "28:05",
+      "text": "Usted está loca porque a mí me pagan para hacer culi que al sangro, no es temid.",
+      "hy": "Դուք գժվե՞լ եք, ինձ վճարում են ձեզ խնամելու ու ուղեկցելու համար, ոչ թե թողնելու։"
+    },
+    {
+      "id": "cap20-line-514",
+      "start": 1688,
+      "timeLabel": "28:08",
+      "text": "¡Dilagros!",
+      "hy": "Միլագրո՛ս։"
+    },
+    {
+      "id": "cap20-line-515",
+      "start": 1689,
+      "timeLabel": "28:09",
+      "text": "Bueno, dañame la huella de la boca con jabón, le espero abajo.",
+      "hy": "Լավ, տիկին, բերանս օճառով կլվանամ, ներքևում սպասում եմ ձեզ։"
+    },
+    {
+      "id": "cap20-line-516",
+      "start": 1694,
+      "timeLabel": "28:14",
+      "text": "La barbaridad que dice ese chico.",
+      "hy": "Ի՜նչ հանդգնություններ է ասում այս աղջիկը։"
+    },
+    {
+      "id": "cap20-line-517",
+      "start": 1701,
+      "timeLabel": "28:21",
+      "text": "¿Empezamos o no empezamos?",
+      "hy": "Սկսո՞ւմ ենք, թե՞ չենք սկսում։"
+    },
+    {
+      "id": "cap20-line-518",
+      "start": 1702,
+      "timeLabel": "28:22",
+      "text": "No empezamos nada, mamá.",
+      "hy": "Ոչինչ չենք սկսում, մայրի՛կ։"
+    },
+    {
+      "id": "cap20-line-519",
+      "start": 1704,
+      "timeLabel": "28:24",
+      "text": "¿Por qué?",
+      "hy": "Ինչո՞ւ։"
+    },
+    {
+      "id": "cap20-line-520",
+      "start": 1705,
+      "timeLabel": "28:25",
+      "text": "Es que no se puede hacer ninguna reunión de directorio porque no está al visa.",
+      "hy": "Որովհետև խորհրդի նիստ չի կարելի անցկացնել, քանի որ Լուիսան այստեղ չէ։"
+    },
+    {
+      "id": "cap20-line-521",
+      "start": 1709,
+      "timeLabel": "28:29",
+      "text": "A ver, qué se está fantochada, ve.",
+      "hy": "Տեսնեմ՝ սա ի՞նչ ներկայացում է։"
+    },
+    {
+      "id": "cap20-line-522",
+      "start": 1711,
+      "timeLabel": "28:31",
+      "text": "Mimón, fantochada, papá.",
+      "hy": "Ոչ մի ներկայացում չէ, հայրի՛կ։"
+    },
+    {
+      "id": "cap20-line-523",
+      "start": 1712,
+      "timeLabel": "28:32",
+      "text": "Está jugando con la vida de las personas.",
+      "hy": "Մարդկանց կյանքի հետ ես խաղում։"
+    },
+    {
+      "id": "cap20-line-524",
+      "start": 1716,
+      "timeLabel": "28:36",
+      "text": "¡No",
+      "hy": "Չասացի՛ր։"
+    },
+    {
+      "id": "cap20-line-525",
+      "start": 1717,
+      "timeLabel": "28:37",
+      "text": "lo dijiste!",
+      "hy": "Չասացի՛ր։"
+    },
+    {
+      "id": "cap20-line-526",
+      "start": 1718,
+      "timeLabel": "28:38",
+      "text": "No lo dijiste.",
+      "hy": "Չասացիր։"
+    },
+    {
+      "id": "cap20-line-527",
+      "start": 1731,
+      "timeLabel": "28:51",
+      "text": "A mí.",
+      "hy": "Ինձ։"
+    },
+    {
+      "id": "cap20-line-528",
+      "start": 1732,
+      "timeLabel": "28:52",
+      "text": "¡Bah, perfecto!",
+      "hy": "Բա՜, հրաշալի է։"
+    },
+    {
+      "id": "cap20-line-529",
+      "start": 1733,
+      "timeLabel": "28:53",
+      "text": "Estás de más entonces.",
+      "hy": "Ուրեմն դու այստեղ ավելորդ ես։"
+    },
+    {
+      "id": "cap20-line-530",
+      "start": 1733,
+      "timeLabel": "28:53",
+      "text": "¿Pero qué estás diciendo?",
+      "hy": "Բայց ի՞նչ ես ասում։"
+    },
+    {
+      "id": "cap20-line-531",
+      "start": 1734,
+      "timeLabel": "28:54",
+      "text": "Papá, te volviste loco.",
+      "hy": "Հայրի՛կ, գժվե՞լ ես։"
+    },
+    {
+      "id": "cap20-line-532",
+      "start": 1735,
+      "timeLabel": "28:55",
+      "text": "¿Cómo vas a echar a la abuela de la reunión de directorio?",
+      "hy": "Ինչպե՞ս ես տատիկին դուրս հանում տնօրենների խորհրդի նիստից։"
+    },
+    {
+      "id": "cap20-line-533",
+      "start": 1737,
+      "timeLabel": "28:57",
+      "text": "¡No, no!",
+      "hy": "Ո՛չ, ո՛չ։"
+    },
+    {
+      "id": "cap20-line-534",
+      "start": 1737,
+      "timeLabel": "28:57",
+      "text": "y",
+      "hy": "Եվ..."
+    },
+    {
+      "id": "cap20-line-535",
+      "start": 1740,
+      "timeLabel": "29:00",
+      "text": "de Cotina Razon.",
+      "hy": "Ֆեդերիկոն իրավացի է։"
+    },
+    {
+      "id": "cap20-line-536",
+      "start": 1741,
+      "timeLabel": "29:01",
+      "text": "En la reunión tiene que estar o el titular o el representante.",
+      "hy": "Նիստին պետք է ներկա լինի կա՛մ բաժնետերը, կա՛մ ներկայացուցիչը։"
+    },
+    {
+      "id": "cap20-line-537",
+      "start": 1745,
+      "timeLabel": "29:05",
+      "text": "Ambos no.",
+      "hy": "Երկուսը միասին՝ ոչ։"
+    },
+    {
+      "id": "cap20-line-538",
+      "start": 1749,
+      "timeLabel": "29:09",
+      "text": "Lo único sensato es lo que dijo Damiana.",
+      "hy": "Միակ խելամիտ բանը Դամիանի ասածն է։"
+    },
+    {
+      "id": "cap20-line-539",
+      "start": 1755,
+      "timeLabel": "29:15",
+      "text": "¡Es una locura!",
+      "hy": "Խենթությո՛ւն է։"
+    },
+    {
+      "id": "cap20-line-540",
+      "start": 1761,
+      "timeLabel": "29:21",
+      "text": "que quiebre la empresa, que vaya preso, eso pretendés.",
+      "hy": "Ուզում ես՝ ընկերությունը սնանկանա, ես էլ բա՞նտ գնամ, դա՞ ես ուզում։"
+    },
+    {
+      "id": "cap20-line-541",
+      "start": 1776,
+      "timeLabel": "29:36",
+      "text": "Una cosa, querida.",
+      "hy": "Մի բան, սիրելի՛ս։"
+    },
+    {
+      "id": "cap20-line-542",
+      "start": 1780,
+      "timeLabel": "29:40",
+      "text": "Te observé como la gente.",
+      "hy": "Քեզ նայեցի ինչպես կարգին մարդու։"
+    },
+    {
+      "id": "cap20-line-543",
+      "start": 1795,
+      "timeLabel": "29:55",
+      "text": "¿Por qué hay otro tipo de gente que se viste como me visto yo?",
+      "hy": "Որովհետև ուրիշ տեսակի մարդիկ էլ կան, որ իմ նման են հագնվում։"
+    },
+    {
+      "id": "cap20-line-544",
+      "start": 1798,
+      "timeLabel": "29:58",
+      "text": "Que no tiene guita para comprarse la picheta que va a usar, ¿sabes?",
+      "hy": "Որ փող չունեն թանկարժեք հագուստ գնելու, գիտե՞ս։"
+    },
+    {
+      "id": "cap20-line-545",
+      "start": 1802,
+      "timeLabel": "30:02",
+      "text": "Estás de nuevo del tema.",
+      "hy": "Նորից սկսեցիր այդ թեման։"
+    },
+    {
+      "id": "cap20-line-546",
+      "start": 1804,
+      "timeLabel": "30:04",
+      "text": "Ah.",
+      "hy": "Ա՜։"
+    },
+    {
+      "id": "cap20-line-547",
+      "start": 1804,
+      "timeLabel": "30:04",
+      "text": "Igual con la botella que soy.",
+      "hy": "Միևնույն է՝ ինչ շիշ եմ։"
+    },
+    {
+      "id": "cap20-line-548",
+      "start": 1805,
+      "timeLabel": "30:05",
+      "text": "La primera.",
+      "hy": "Առաջինը։"
+    },
+    {
+      "id": "cap20-line-549",
+      "start": 1806,
+      "timeLabel": "30:06",
+      "text": "A mí no me asuntaba.",
+      "hy": "Ինձ չէր վախեցնում։"
+    },
+    {
+      "id": "cap20-line-550",
+      "start": 1806,
+      "timeLabel": "30:06",
+      "text": "¿Por qué?",
+      "hy": "Ինչո՞ւ։"
+    },
+    {
+      "id": "cap20-line-551",
+      "start": 1807,
+      "timeLabel": "30:07",
+      "text": "Porque...",
+      "hy": "Որովհետև..."
+    },
+    {
+      "id": "cap20-line-552",
+      "start": 1807,
+      "timeLabel": "30:07",
+      "text": "Claro.",
+      "hy": "Իհարկե։"
+    },
+    {
+      "id": "cap20-line-553",
+      "start": 1808,
+      "timeLabel": "30:08",
+      "text": "Me llamo a mi amora.",
+      "hy": "Ես հանգիստ եմ։"
+    },
+    {
+      "id": "cap20-line-554",
+      "start": 1815,
+      "timeLabel": "30:15",
+      "text": "Te hace buena cosa, Ivo.",
+      "hy": "Մի բան ասեմ քեզ, Իվո՛։"
+    },
+    {
+      "id": "cap20-line-555",
+      "start": 1818,
+      "timeLabel": "30:18",
+      "text": "¿Cuándo le vas a decir a tu abuela que echa ese esperpento que tiene como empleada?",
+      "hy": "Ե՞րբ ես տատիկիդ ասելու, որ վռնդի այդ խրտվիլակին, որ աշխատակից է պահում։"
+    },
+    {
+      "id": "cap20-line-556",
+      "start": 1822,
+      "timeLabel": "30:22",
+      "text": "Nunca vi nada más ordinario en mi vida",
+      "hy": "Կյանքումս ավելի գռեհիկ բան չեմ տեսել։"
+    },
+    {
+      "id": "cap20-line-557",
+      "start": 1828,
+      "timeLabel": "30:28",
+      "text": "espectacular, la verdad es que salió re bien Diosas, aparte, Diosas, estuvimos bárbaras Y las han quitado ricos,",
+      "hy": "Հիանալի էր, իսկապես շատ լավ անցավ, աստվածուհիներ էինք, հրաշալի էինք, ուտելիքն էլ համեղ էր։"
+    },
+    {
+      "id": "cap20-line-558",
+      "start": 1834,
+      "timeLabel": "30:34",
+      "text": "te sí Bueno, eso era lo importante para mí Y preciaboli",
+      "hy": "Այո՛, դե դա էր ինձ համար կարևորը, շատ լավ անցավ։"
+    },
+    {
+      "id": "cap20-line-559",
+      "start": 1839,
+      "timeLabel": "30:39",
+      "text": "también y a vos, esa cosa blanca",
+      "hy": "Քեզ էլ՝ այդ սպիտակ բանը։"
+    },
+    {
+      "id": "cap20-line-560",
+      "start": 1844,
+      "timeLabel": "30:44",
+      "text": "Ahora yo doy una cosa, ¿no?",
+      "hy": "Հիմա մի բան ասեմ, չէ՞։"
+    },
+    {
+      "id": "cap20-line-561",
+      "start": 1845,
+      "timeLabel": "30:45",
+      "text": "Las cancheras, al final, terminaron con un cuíce y ella de fila.",
+      "hy": "Մեծամիտները վերջում միայն նայում էին, երբ նա պոդիումում քայլում էր։"
+    },
+    {
+      "id": "cap20-line-562",
+      "start": 1849,
+      "timeLabel": "30:49",
+      "text": "¿Por qué me asumebita esa gente?",
+      "hy": "Ինչո՞ւ են ինձ նյարդայնացնում այդ մարդիկ։"
+    },
+    {
+      "id": "cap20-line-563",
+      "start": 1851,
+      "timeLabel": "30:51",
+      "text": "Y me sopla el corazón",
+      "hy": "Եվ սիրտս է գողանում..."
+    },
+    {
+      "id": "cap20-line-564",
+      "start": 1858,
+      "timeLabel": "30:58",
+      "text": "y lo más simpático de todo",
+      "hy": "և ամենահետաքրքիրն այն է,"
+    },
+    {
+      "id": "cap20-line-565",
+      "start": 1864,
+      "timeLabel": "31:04",
+      "text": "de Mister Mysterio está aquí, sentado al piano, para dedicarle esta canción a Victoria Dicarlo.",
+      "hy": "որ Միստր Միստերիոն այստեղ է՝ դաշնամուրի մոտ նստած, որպեսզի այս երգը նվիրի Վիկտորիա Դի Կառլոյին։"
+    },
+    {
+      "id": "cap20-line-566",
+      "start": 1874,
+      "timeLabel": "31:14",
+      "text": "¡Paren!",
+      "hy": "Կանգնե՛ք։"
+    },
+    {
+      "id": "cap20-line-567",
+      "start": 1875,
+      "timeLabel": "31:15",
+      "text": "¡Para vos, Victoria!",
+      "hy": "Քեզ համար, Վիկտորիա՛։"
+    },
+    {
+      "id": "cap20-line-568",
+      "start": 1880,
+      "timeLabel": "31:20",
+      "text": "Yo te amo",
+      "hy": "Ես քեզ սիրում եմ,"
+    },
+    {
+      "id": "cap20-line-569",
+      "start": 1883,
+      "timeLabel": "31:23",
+      "text": "Porque estás entre las líneas de mi mano",
+      "hy": "որովհետև դու իմ ձեռքի գծերի մեջ ես,"
+    },
+    {
+      "id": "cap20-line-570",
+      "start": 1887,
+      "timeLabel": "31:27",
+      "text": "Y llegas en el día prometido",
+      "hy": "և գալիս ես խոստացված օրը..."
+    },
+    {
+      "id": "cap20-line-571",
+      "start": 1898,
+      "timeLabel": "31:38",
+      "text": "Y te amo",
+      "hy": "Եվ սիրում եմ քեզ,"
+    },
+    {
+      "id": "cap20-line-572",
+      "start": 1901,
+      "timeLabel": "31:41",
+      "text": "Que sabe sonreír",
+      "hy": "որ գիտես ժպտալ,"
+    },
+    {
+      "id": "cap20-line-573",
+      "start": 1906,
+      "timeLabel": "31:46",
+      "text": "que me haces ver el mapa del...",
+      "hy": "որ ինձ ցույց ես տալիս աշխարհի քարտեզը..."
+    },
+    {
+      "id": "cap20-line-574",
+      "start": 1911,
+      "timeLabel": "31:51",
+      "text": "y no sé si existe el sol cuando no está",
+      "hy": "և չգիտեմ՝ արևը գոյություն ունի՞, երբ չկաս..."
+    },
+    {
+      "id": "cap20-line-575",
+      "start": 1930,
+      "timeLabel": "32:10",
+      "text": "Porque si no te gusta vos, me lo quedo para mí.",
+      "hy": "Որովհետև եթե քեզ դուր չի գալիս, ինձ կպահեմ։"
+    },
+    {
+      "id": "cap20-line-576",
+      "start": 1936,
+      "timeLabel": "32:16",
+      "text": "Adelante, señor.",
+      "hy": "Համեցեք, պարոն։"
+    },
+    {
+      "id": "cap20-line-577",
+      "start": 1943,
+      "timeLabel": "32:23",
+      "text": "Vengo a hablar con vos.",
+      "hy": "Քեզ հետ խոսելու եմ եկել։"
+    },
+    {
+      "id": "cap20-line-578",
+      "start": 1945,
+      "timeLabel": "32:25",
+      "text": "Sí, sí.",
+      "hy": "Այո՛, այո՛։"
+    },
+    {
+      "id": "cap20-line-579",
+      "start": 1946,
+      "timeLabel": "32:26",
+      "text": "Por eso, no te dejo entrar.",
+      "hy": "Դրա համար էլ քեզ ներս չեմ թողնում / թողեցի մտնես։"
+    },
+    {
+      "id": "cap20-line-580",
+      "start": 1948,
+      "timeLabel": "32:28",
+      "text": "Contame.",
+      "hy": "Պատմի՛ր ինձ։"
+    },
+    {
+      "id": "cap20-line-581",
+      "start": 1948,
+      "timeLabel": "32:28",
+      "text": "No, no, no, contestame vos.",
+      "hy": "Ո՛չ, ո՛չ, դու պատասխանիր ինձ։"
+    },
+    {
+      "id": "cap20-line-582",
+      "start": 1951,
+      "timeLabel": "32:31",
+      "text": "¿Qué onda con la empleada de la abuela?",
+      "hy": "Ի՞նչ կա տատիկի աշխատակցուհու հետ։"
+    },
+    {
+      "id": "cap20-line-583",
+      "start": 1953,
+      "timeLabel": "32:33",
+      "text": "Mira vos, yo te quería hablar de lo mismo.",
+      "hy": "Տես՝ ես էլ հենց դրա մասին էի ուզում քեզ հետ խոսել։"
+    },
+    {
+      "id": "cap20-line-584",
+      "start": 1957,
+      "timeLabel": "32:37",
+      "text": "No te quería decir que dejes un poco en paz a Milly, ¿no?",
+      "hy": "Ուզում էի քեզ ասել, որ Միլիին մի քիչ հանգիստ թողնես, չէ՞։"
+    },
+    {
+      "id": "cap20-line-585",
+      "start": 1961,
+      "timeLabel": "32:41",
+      "text": "A Milly.",
+      "hy": "Միլիի՞ն։"
+    },
+    {
+      "id": "cap20-line-586",
+      "start": 1962,
+      "timeLabel": "32:42",
+      "text": "Ah, a Milly.",
+      "hy": "Ա՜, Միլիին։"
+    },
+    {
+      "id": "cap20-line-587",
+      "start": 1962,
+      "timeLabel": "32:42",
+      "text": "Ah, Milly.",
+      "hy": "Ա՜, Միլիին։"
+    },
+    {
+      "id": "cap20-line-588",
+      "start": 1963,
+      "timeLabel": "32:43",
+      "text": "Milly.",
+      "hy": "Միլիին։"
+    },
+    {
+      "id": "cap20-line-589",
+      "start": 1964,
+      "timeLabel": "32:44",
+      "text": "Está bien, claro.",
+      "hy": "Լավ, պարզ է։"
+    },
+    {
+      "id": "cap20-line-590",
+      "start": 1965,
+      "timeLabel": "32:45",
+      "text": "Está bien.",
+      "hy": "Լավ։"
+    },
+    {
+      "id": "cap20-line-591",
+      "start": 1965,
+      "timeLabel": "32:45",
+      "text": "¿Y por qué la tengo que dejar en paz que pito tocar vos en esto?",
+      "hy": "Իսկ ինչո՞ւ պիտի նրան հանգիստ թողնեմ, դու ի՞նչ գործ ունես այստեղ։"
+    },
+    {
+      "id": "cap20-line-592",
+      "start": 1969,
+      "timeLabel": "32:49",
+      "text": "Me interesa mucho.",
+      "hy": "Նա ինձ շատ է հետաքրքրում։"
+    },
+    {
+      "id": "cap20-line-593",
+      "start": 1970,
+      "timeLabel": "32:50",
+      "text": "¿A mí también?",
+      "hy": "Ինձ էլ։"
+    },
+    {
+      "id": "cap20-line-594",
+      "start": 1971,
+      "timeLabel": "32:51",
+      "text": "¿Y qué?",
+      "hy": "Եվ ի՞նչ։"
+    },
+    {
+      "id": "cap20-line-595",
+      "start": 1972,
+      "timeLabel": "32:52",
+      "text": "A vos también te interesa.",
+      "hy": "Քեզ էլ է հետաքրքրում։"
+    },
+    {
+      "id": "cap20-line-596",
+      "start": 1978,
+      "timeLabel": "32:58",
+      "text": "Por favor, le digo que el señor Pablo quiere verla.",
+      "hy": "Խնդրում եմ, ասում եմ ձեզ, որ պարոն Պաբլոն ուզում է ձեզ տեսնել։"
+    },
+    {
+      "id": "cap20-line-597",
+      "start": 1981,
+      "timeLabel": "33:01",
+      "text": "Usted no puede sentarme ese de querer que él la ve a ver usted caminando.",
+      "hy": "Դուք չեք կարող պնդել, որ նա ձեզ մոտ քայլելով գա։"
+    },
+    {
+      "id": "cap20-line-598",
+      "start": 1983,
+      "timeLabel": "33:03",
+      "text": "¿Por qué no?",
+      "hy": "Ինչո՞ւ ոչ։"
+    },
+    {
+      "id": "cap20-line-599",
+      "start": 1984,
+      "timeLabel": "33:04",
+      "text": "Porque no puede estar así ya, no, no, no.",
+      "hy": "Որովհետև չի կարող այդպես, ո՛չ, ո՛չ։"
+    },
+    {
+      "id": "cap20-line-600",
+      "start": 1986,
+      "timeLabel": "33:06",
+      "text": "Mire, verla, no me haga hablar porque si es para tirar la lengua tengo un montón, ¿estamos?",
+      "hy": "Լսեք, Բեռնարդո, ինձ մի՛ խոսեցրեք, թե չէ ասելու շատ բան ունեմ, պայմանավորվեցի՞նք։"
+    },
+    {
+      "id": "cap20-line-601",
+      "start": 1989,
+      "timeLabel": "33:09",
+      "text": "Por favor, vaya.",
+      "hy": "Խնդրում եմ, գնացեք։"
+    },
+    {
+      "id": "cap20-line-602",
+      "start": 1991,
+      "timeLabel": "33:11",
+      "text": "Milagro, no lo presione, si él no se quiere mostrar caminando.",
+      "hy": "Միլագրոս, նրա վրա ճնշում մի՛ գործադրիր, եթե նա չի ուզում քայլելիս երևալ։"
+    },
+    {
+      "id": "cap20-line-603",
+      "start": 1993,
+      "timeLabel": "33:13",
+      "text": "Por algo será tendrá su razón.",
+      "hy": "Ինչ-որ պատճառ կունենա։"
+    },
+    {
+      "id": "cap20-line-604",
+      "start": 1996,
+      "timeLabel": "33:16",
+      "text": "Ah, el dinosaero lo sabía y se callaba la boca también.",
+      "hy": "Ա՜, դինոզավրն էլ գիտեր ու բերանը փակ էր պահում։"
+    },
+    {
+      "id": "cap20-line-605",
+      "start": 1998,
+      "timeLabel": "33:18",
+      "text": "¿Qué cosa?",
+      "hy": "Ի՞նչ բան։"
+    },
+    {
+      "id": "cap20-line-606",
+      "start": 2000,
+      "timeLabel": "33:20",
+      "text": "Yo no sé nada, no sé nada.",
+      "hy": "Ես ոչինչ չգիտեմ, ոչինչ չգիտեմ։"
+    },
+    {
+      "id": "cap20-line-607",
+      "start": 2001,
+      "timeLabel": "33:21",
+      "text": "Lo único que le digo es que, encapichándose, no ayudan.",
+      "hy": "Միակ բանը, որ ասում եմ՝ համառելով չեք օգնում։"
+    },
+    {
+      "id": "cap20-line-608",
+      "start": 2004,
+      "timeLabel": "33:24",
+      "text": "Ok.",
+      "hy": "Լավ։"
+    },
+    {
+      "id": "cap20-line-609",
+      "start": 2006,
+      "timeLabel": "33:26",
+      "text": "¿Sabes que él me quiso denudar?",
+      "hy": "Գիտե՞ք, որ նա ուզում էր ինձ մերկացնել։"
+    },
+    {
+      "id": "cap20-line-610",
+      "start": 2009,
+      "timeLabel": "33:29",
+      "text": "A mí eso no me interesa.",
+      "hy": "Ինձ դա չի հետաքրքրում։"
+    },
+    {
+      "id": "cap20-line-611",
+      "start": 2010,
+      "timeLabel": "33:30",
+      "text": "A usted no me interesa, pero a mí sí, porque es mí...",
+      "hy": "Ձեզ չի հետաքրքրում, բայց ինձ հետաքրքրում է, որովհետև իմ..."
+    },
+    {
+      "id": "cap20-line-612",
+      "start": 2014,
+      "timeLabel": "33:34",
+      "text": "Pero vaya, del gusto y listo, se acabó",
+      "hy": "Բայց գնացեք, նրա սիրտը մի՛ կոտրեք ու վերջ։"
+    },
+    {
+      "id": "cap20-line-613",
+      "start": 2017,
+      "timeLabel": "33:37",
+      "text": "que el carnaval No empezó.",
+      "hy": "Կառնավալը դեռ չի սկսվել։"
+    },
+    {
+      "id": "cap20-line-614",
+      "start": 2019,
+      "timeLabel": "33:39",
+      "text": "no empezó.",
+      "hy": "Չի սկսվել։"
+    },
+    {
+      "id": "cap20-line-615",
+      "start": 2019,
+      "timeLabel": "33:39",
+      "text": "¿Por qué dice?",
+      "hy": "Ինչո՞ւ եք ասում։"
+    },
+    {
+      "id": "cap20-line-616",
+      "start": 2020,
+      "timeLabel": "33:40",
+      "text": "¿Por qué dice?",
+      "hy": "Ինչո՞ւ եք ասում։"
+    },
+    {
+      "id": "cap20-line-617",
+      "start": 2020,
+      "timeLabel": "33:40",
+      "text": "De la matraca",
+      "hy": "Թող ինքը ցույց տա..."
+    },
+    {
+      "id": "cap20-line-618",
+      "start": 2024,
+      "timeLabel": "33:44",
+      "text": "a la aire a ver si le gusta.",
+      "hy": "տեսնենք՝ իրեն դուր կգա՞։"
+    },
+    {
+      "id": "cap20-line-619",
+      "start": 2026,
+      "timeLabel": "33:46",
+      "text": "Pero si yo le digo que le den gusto de ir, nada más no que se desnude.",
+      "hy": "Բայց ես ձեզ ասում եմ միայն գնաք, ոչ թե մերկանաք։"
+    },
+    {
+      "id": "cap20-line-620",
+      "start": 2029,
+      "timeLabel": "33:49",
+      "text": "Me diré harta, voy a ir igual.",
+      "hy": "Հոգնեցրիք ինձ, միևնույն է կգնամ։"
+    },
+    {
+      "id": "cap20-line-621",
+      "start": 2035,
+      "timeLabel": "33:55",
+      "text": "Mira Pablo, yo no te quiero escupir la sopa.",
+      "hy": "Լսի՛ր, Պաբլո, չեմ ուզում քեզ տհաճություն պատճառել։"
+    },
+    {
+      "id": "cap20-line-622",
+      "start": 2038,
+      "timeLabel": "33:58",
+      "text": "Lo que pasa es que...",
+      "hy": "Պարզապես..."
+    },
+    {
+      "id": "cap20-line-623",
+      "start": 2041,
+      "timeLabel": "34:01",
+      "text": "a mí me pasan cosas",
+      "hy": "ինձ հետ մի բան է կատարվում,"
+    },
+    {
+      "id": "cap20-line-624",
+      "start": 2044,
+      "timeLabel": "34:04",
+      "text": "que me mide con el sacana",
+      "hy": "երբ ինձ այդ դեմքով է նայում,"
+    },
+    {
+      "id": "cap20-line-625",
+      "start": 2050,
+      "timeLabel": "34:10",
+      "text": "y pasar",
+      "hy": "ու անցնում է..."
+    },
+    {
+      "id": "cap20-line-626",
+      "start": 2054,
+      "timeLabel": "34:14",
+      "text": "Que tiene un buen lomo.",
+      "hy": "Շատ սիրուն կազմվածք ունի։"
+    },
+    {
+      "id": "cap20-line-627",
+      "start": 2056,
+      "timeLabel": "34:16",
+      "text": "Y entonces, es para una noche de lluvia, nada más.",
+      "hy": "Իսկ դե՝ մի անձրևոտ գիշերվա համար է, ընդամենը։"
+    },
+    {
+      "id": "cap20-line-628",
+      "start": 2059,
+      "timeLabel": "34:19",
+      "text": "Yo se puede, me la voy a tranzar.",
+      "hy": "Եթե ստացվի, նրան կհամբուրեմ / կգայթակղեմ։"
+    },
+    {
+      "id": "cap20-line-629",
+      "start": 2061,
+      "timeLabel": "34:21",
+      "text": "Para mí, Mili no es para una noche, es para una vida.",
+      "hy": "Ինձ համար Միլին մի գիշերվա համար չէ, այլ ամբողջ կյանքի համար։"
+    },
+    {
+      "id": "cap20-line-630",
+      "start": 2063,
+      "timeLabel": "34:23",
+      "text": "Anda, Pablo, déjame.",
+      "hy": "Գնա՛, Պաբլո, թո՛ղ ինձ։"
+    },
+    {
+      "id": "cap20-line-631",
+      "start": 2065,
+      "timeLabel": "34:25",
+      "text": "Mili es para una vida, es así.",
+      "hy": "Միլին ամբողջ կյանքի համար է, այդպես է։"
+    },
+    {
+      "id": "cap20-line-632",
+      "start": 2067,
+      "timeLabel": "34:27",
+      "text": "Pero no podés.",
+      "hy": "Բայց դու չես կարող։"
+    },
+    {
+      "id": "cap20-line-633",
+      "start": 2069,
+      "timeLabel": "34:29",
+      "text": "¿Puedes estar así?",
+      "hy": "Կարո՞ղ ես այդ վիճակում։"
+    },
+    {
+      "id": "cap20-line-634",
+      "start": 2072,
+      "timeLabel": "34:32",
+      "text": "Estoy totalmente enamorado de mi laber.",
+      "hy": "Ես ամբողջովին սիրահարված եմ Միլագրոսին։"
+    },
+    {
+      "id": "cap20-line-635",
+      "start": 2076,
+      "timeLabel": "34:36",
+      "text": "¿Por qué no puede?",
+      "hy": "Ինչո՞ւ չեմ կարող։"
+    },
+    {
+      "id": "cap20-line-636",
+      "start": 2095,
+      "timeLabel": "34:55",
+      "text": "¿Me ha mentido?",
+      "hy": "Ինձ ստե՞լ է։"
+    },
+    {
+      "id": "cap20-line-637",
+      "start": 2095,
+      "timeLabel": "34:55",
+      "text": "No, para, para, para.",
+      "hy": "Ո՛չ, կանգնիր, կանգնիր, կանգնիր։"
+    },
+    {
+      "id": "cap20-line-638",
+      "start": 2099,
+      "timeLabel": "34:59",
+      "text": "Y vos escuché una cosita, bueno podés ir hablando serio hermano.",
+      "hy": "Իվո՛, մի բան լսիր, չես կարող լուրջ խոսել, եղբայր։"
+    },
+    {
+      "id": "cap20-line-639",
+      "start": 2102,
+      "timeLabel": "35:02",
+      "text": "¿Por qué no?",
+      "hy": "Ինչո՞ւ ոչ։"
+    },
+    {
+      "id": "cap20-line-640",
+      "start": 2102,
+      "timeLabel": "35:02",
+      "text": "Porque no, porque eres mi primo y a mí estoy tratando de decir que me pasa...",
+      "hy": "Որովհետև չէ, որովհետև զարմիկս ես, ու ես փորձում եմ քեզ ասել՝ ինչ է ինձ հետ կատարվում..."
+    },
+    {
+      "id": "cap20-line-641",
+      "start": 2109,
+      "timeLabel": "35:09",
+      "text": "que vos",
+      "hy": "որ դու"
+    },
+    {
+      "id": "cap20-line-642",
+      "start": 2111,
+      "timeLabel": "35:11",
+      "text": "no me vas a decir cosa fea, mira grosso.",
+      "hy": "վատ բաներ չես ասելու Միլագրոսի մասին։"
+    },
+    {
+      "id": "cap20-line-643",
+      "start": 2112,
+      "timeLabel": "35:12",
+      "text": "Cosas feas, cosas feas.",
+      "hy": "Վատ բաներ, վատ բաներ։"
+    },
+    {
+      "id": "cap20-line-644",
+      "start": 2114,
+      "timeLabel": "35:14",
+      "text": "Sí.",
+      "hy": "Այո՛։"
+    },
+    {
+      "id": "cap20-line-645",
+      "start": 2114,
+      "timeLabel": "35:14",
+      "text": "La palabra sirviente es una cosa fea.",
+      "hy": "«Աղախին» բառը տգեղ բան է։"
+    },
+    {
+      "id": "cap20-line-646",
+      "start": 2116,
+      "timeLabel": "35:16",
+      "text": "¿Qué sirvientas?",
+      "hy": "Ի՞նչ աղախին։"
+    },
+    {
+      "id": "cap20-line-647",
+      "start": 2116,
+      "timeLabel": "35:16",
+      "text": "Que yo no dije sirvientas, no...",
+      "hy": "Ես «աղախին» չեմ ասել, ոչ..."
+    },
+    {
+      "id": "cap20-line-648",
+      "start": 2117,
+      "timeLabel": "35:17",
+      "text": "no es eso lo que quiero decir.",
+      "hy": "դա չեմ ուզում ասել։"
+    },
+    {
+      "id": "cap20-line-649",
+      "start": 2119,
+      "timeLabel": "35:19",
+      "text": "¿Qué?",
+      "hy": "Ի՞նչ։"
+    },
+    {
+      "id": "cap20-line-650",
+      "start": 2119,
+      "timeLabel": "35:19",
+      "text": "Tú tuviste tan arriba que no te estás dando ni cuenta de lo que pasa acá abajo.",
+      "hy": "Դու այնքան վերևում ես եղել, որ նույնիսկ չես էլ նկատում՝ ներքևում ինչ է կատարվում։"
+    },
+    {
+      "id": "cap20-line-651",
+      "start": 2122,
+      "timeLabel": "35:22",
+      "text": "Bajate del caballo porque cuando te caigas te vas a reventar contra el suelo.",
+      "hy": "Իջիր ձիուցդ, թե չէ երբ ընկնես, գետնին ես ջախջախվելու։"
+    },
+    {
+      "id": "cap20-line-652",
+      "start": 2127,
+      "timeLabel": "35:27",
+      "text": "No quisiste decir eso.",
+      "hy": "Դու դա չէիր ուզում ասել։"
+    },
+    {
+      "id": "cap20-line-653",
+      "start": 2128,
+      "timeLabel": "35:28",
+      "text": "¿De qué te arreís?",
+      "hy": "Ինչի՞ վրա ես ծիծաղում։"
+    },
+    {
+      "id": "cap20-line-654",
+      "start": 2129,
+      "timeLabel": "35:29",
+      "text": "Y te saco una radiografía aquí.",
+      "hy": "Ես քեզ մինչև հոգուդ խորքը տեսնում եմ։"
+    },
+    {
+      "id": "cap20-line-655",
+      "start": 2130,
+      "timeLabel": "35:30",
+      "text": "Bueno cortála con esa risita, me pongo un vino favor, no hagas macanas.",
+      "hy": "Լավ, վերջ տուր այդ ծիծաղին, խնդրում եմ, հիմարություն մի՛ արա։"
+    },
+    {
+      "id": "cap20-line-656",
+      "start": 2133,
+      "timeLabel": "35:33",
+      "text": "¿Por qué macanas?",
+      "hy": "Ինչո՞ւ հիմարություն։"
+    },
+    {
+      "id": "cap20-line-657",
+      "start": 2134,
+      "timeLabel": "35:34",
+      "text": "En amoras es una macana.",
+      "hy": "Սիրահարվելը հիմարությո՞ւն է։"
+    },
+    {
+      "id": "cap20-line-658",
+      "start": 2135,
+      "timeLabel": "35:35",
+      "text": "No, si no quiero decir eso, mirá.",
+      "hy": "Ո՛չ, դա չեմ ուզում ասել, լսիր։"
+    },
+    {
+      "id": "cap20-line-659",
+      "start": 2137,
+      "timeLabel": "35:37",
+      "text": "¿Por qué no te vas a pasar la lana?",
+      "hy": "Ինչո՞ւ չես գնում զբոսնելու։"
+    },
+    {
+      "id": "cap20-line-660",
+      "start": 2138,
+      "timeLabel": "35:38",
+      "text": "Estoy tratando de decir, Pablo, te pido, por favor.",
+      "hy": "Փորձում եմ քեզ ասել, Պաբլո, խնդրում եմ։"
+    },
+    {
+      "id": "cap20-line-661",
+      "start": 2140,
+      "timeLabel": "35:40",
+      "text": "Ya lo di.",
+      "hy": "Արդեն ասացիր։"
+    },
+    {
+      "id": "cap20-line-662",
+      "start": 2140,
+      "timeLabel": "35:40",
+      "text": "Nada.",
+      "hy": "Ոչինչ։"
+    },
+    {
+      "id": "cap20-line-663",
+      "start": 2140,
+      "timeLabel": "35:40",
+      "text": "Nada.",
+      "hy": "Ոչինչ։"
+    },
+    {
+      "id": "cap20-line-664",
+      "start": 2140,
+      "timeLabel": "35:40",
+      "text": "Nada.",
+      "hy": "Ոչինչ։"
+    },
+    {
+      "id": "cap20-line-665",
+      "start": 2140,
+      "timeLabel": "35:40",
+      "text": "No, si no quiero decir eso, mirad.",
+      "hy": "Ո՛չ, դա չեմ ուզում ասել, լսիր։"
+    },
+    {
+      "id": "cap20-line-666",
+      "start": 2140,
+      "timeLabel": "35:40",
+      "text": "¿Por qué no te vas a contar nada?",
+      "hy": "Ինչո՞ւ չես գնում ու ոչինչ չասես։"
+    },
+    {
+      "id": "cap20-line-667",
+      "start": 2141,
+      "timeLabel": "35:41",
+      "text": "Estoy tratando de decir, Pablo, te pido, por favor.",
+      "hy": "Փորձում եմ քեզ ասել, Պաբլո, խնդրում եմ։"
+    },
+    {
+      "id": "cap20-line-668",
+      "start": 2141,
+      "timeLabel": "35:41",
+      "text": "Ya lo viste.",
+      "hy": "Արդեն տեսար։"
+    },
+    {
+      "id": "cap20-line-669",
+      "start": 2141,
+      "timeLabel": "35:41",
+      "text": "y",
+      "hy": "Եվ..."
+    },
+    {
+      "id": "cap20-line-670",
+      "start": 2147,
+      "timeLabel": "35:47",
+      "text": "Porque si viene esta caez para decirte que sigo enojada con vos.",
+      "hy": "Որովհետև եթե եկել եմ այստեղ, միայն ասելու համար է, որ դեռ բարկացած եմ քեզ վրա։"
+    },
+    {
+      "id": "cap20-line-671",
+      "start": 2152,
+      "timeLabel": "35:52",
+      "text": "Está bien.",
+      "hy": "Լավ։"
+    },
+    {
+      "id": "cap20-line-672",
+      "start": 2153,
+      "timeLabel": "35:53",
+      "text": "Pero decime qué opinas.",
+      "hy": "Բայց ասա՝ ինչ կարծիքի ես։"
+    },
+    {
+      "id": "cap20-line-673",
+      "start": 2155,
+      "timeLabel": "35:55",
+      "text": "¿Qué qué?",
+      "hy": "Ի՞նչ, ի՞նչ։"
+    },
+    {
+      "id": "cap20-line-674",
+      "start": 2157,
+      "timeLabel": "35:57",
+      "text": "¿Qué dijiste?",
+      "hy": "Ի՞նչ ասացիր։"
+    },
+    {
+      "id": "cap20-line-675",
+      "start": 2171,
+      "timeLabel": "36:11",
+      "text": "¿Estás en serio?",
+      "hy": "Լո՞ւրջ ես ասում։"
+    },
+    {
+      "id": "cap20-line-676",
+      "start": 2172,
+      "timeLabel": "36:12",
+      "text": "Yo también le estoy hablando en serio.",
+      "hy": "Ես էլ եմ ձեզ հետ լուրջ խոսում։"
+    },
+    {
+      "id": "cap20-line-677",
+      "start": 2173,
+      "timeLabel": "36:13",
+      "text": "Y aunque no me guste lo que dijo su primo, tienes razón, es una macana.",
+      "hy": "Եվ թեև ինձ դուր չի գալիս ձեր զարմիկի ասածը, նա իրավացի է՝ հիմարություն է։"
+    },
+    {
+      "id": "cap20-line-678",
+      "start": 2179,
+      "timeLabel": "36:19",
+      "text": "¡Momen!",
+      "hy": "Մի րոպե՛։"
+    },
+    {
+      "id": "cap20-line-679",
+      "start": 2180,
+      "timeLabel": "36:20",
+      "text": "¡Momen!",
+      "hy": "Մի րոպե՛։"
+    },
+    {
+      "id": "cap20-line-680",
+      "start": 2180,
+      "timeLabel": "36:20",
+      "text": "¡Topatrón!",
+      "hy": "Մի րոպե, պարո՛ն։"
+    },
+    {
+      "id": "cap20-line-681",
+      "start": 2181,
+      "timeLabel": "36:21",
+      "text": "Si quieres ir hablando conmigo, se me levanta.",
+      "hy": "Եթե ուզում եք ինձ հետ խոսել, ոտքի՛ կանգնեք։"
+    },
+    {
+      "id": "cap20-line-682",
+      "start": 2183,
+      "timeLabel": "36:23",
+      "text": "Arriba, deja de mentir.",
+      "hy": "Վե՛ր կացեք, դադարեք ստել։"
+    },
+    {
+      "id": "cap20-line-683",
+      "start": 2184,
+      "timeLabel": "36:24",
+      "text": "¡Vamos!",
+      "hy": "Առա՛ջ։"
+    },
+    {
+      "id": "cap20-line-684",
+      "start": 2187,
+      "timeLabel": "36:27",
+      "text": "¿Te va a imparar?",
+      "hy": "Ոտքի կանգնե՞մ։"
+    },
+    {
+      "id": "cap20-line-685",
+      "start": 2190,
+      "timeLabel": "36:30",
+      "text": "Me paro.",
+      "hy": "Կանգնում եմ։"
+    },
+    {
+      "id": "cap20-line-686",
+      "start": 2191,
+      "timeLabel": "36:31",
+      "text": "A también, además",
+      "hy": "Ա՜, նաև, բացի այդ..."
+    },
+    {
+      "id": "cap20-line-687",
+      "start": 2198,
+      "timeLabel": "36:38",
+      "text": "con la manita, ¿eh?",
+      "hy": "ձեռքով էլ, հա՞։"
+    },
+    {
+      "id": "cap20-line-688",
+      "start": 2199,
+      "timeLabel": "36:39",
+      "text": "Se lo ve muy bien paradito.",
+      "hy": "Շատ էլ լավ կանգնած եք երևում։"
+    },
+    {
+      "id": "cap20-line-689",
+      "start": 2200,
+      "timeLabel": "36:40",
+      "text": "Me voy a atender a su abuela que no debe estar esperando.",
+      "hy": "Գնամ ձեր տատիկին խնամեմ, որ ինձ հաստատ սպասում է։"
+    },
+    {
+      "id": "cap20-line-690",
+      "start": 2207,
+      "timeLabel": "36:47",
+      "text": "No, no me importa.",
+      "hy": "Ո՛չ, ինձ չի հետաքրքրում։"
+    },
+    {
+      "id": "cap20-line-691",
+      "start": 2208,
+      "timeLabel": "36:48",
+      "text": "A mí sí me importa, porque no quiero que me rajen.",
+      "hy": "Իսկ ինձ հետաքրքրում է, որովհետև չեմ ուզում ինձ աշխատանքից հանեն։"
+    },
+    {
+      "id": "cap20-line-692",
+      "start": 2213,
+      "timeLabel": "36:53",
+      "text": "¿Pero",
+      "hy": "Բայց..."
+    },
+    {
+      "id": "cap20-line-693",
+      "start": 2217,
+      "timeLabel": "36:57",
+      "text": "que usted sepa todo lo que dice señor Pablo?",
+      "hy": "Որ իմանաք՝ այն ամենը, ինչ ասում է պարոն Պաբլոն,"
+    },
+    {
+      "id": "cap20-line-694",
+      "start": 2219,
+      "timeLabel": "36:59",
+      "text": "Me lo tomo muy en serio.",
+      "hy": "ես շատ լուրջ եմ ընդունում։"
+    },
+    {
+      "id": "cap20-line-695",
+      "start": 2221,
+      "timeLabel": "37:01",
+      "text": "¿Y quieres saber algo más?",
+      "hy": "Եվ ուզո՞ւմ եք էլի մի բան իմանալ։"
+    },
+    {
+      "id": "cap20-line-696",
+      "start": 2222,
+      "timeLabel": "37:02",
+      "text": "¿Qué?",
+      "hy": "Ի՞նչ։"
+    },
+    {
+      "id": "cap20-line-697",
+      "start": 2223,
+      "timeLabel": "37:03",
+      "text": "Voy a posar para él.",
+      "hy": "Կեցվածք եմ ընդունելու նրա համար։"
+    },
+    {
+      "id": "cap20-line-698",
+      "start": 2224,
+      "timeLabel": "37:04",
+      "text": "A mí no me preocupa eso.",
+      "hy": "Ինձ դա չի անհանգստացնում։"
+    },
+    {
+      "id": "cap20-line-699",
+      "start": 2225,
+      "timeLabel": "37:05",
+      "text": "Voy a posar de snuda para él.",
+      "hy": "Մերկ եմ կեցվածք ընդունելու նրա համար։"
+    },
+    {
+      "id": "cap20-line-700",
+      "start": 2228,
+      "timeLabel": "37:08",
+      "text": "No.",
+      "hy": "Ո՛չ։"
+    },
+    {
+      "id": "cap20-line-701",
+      "start": 2228,
+      "timeLabel": "37:08",
+      "text": "Vos no podés posar de snuda.",
+      "hy": "Դու չես կարող մերկ կեցվածք ընդունել։"
+    },
+    {
+      "id": "cap20-line-702",
+      "start": 2230,
+      "timeLabel": "37:10",
+      "text": "¿Por qué no podés?",
+      "hy": "Ինչո՞ւ չեմ կարող։"
+    },
+    {
+      "id": "cap20-line-703",
+      "start": 2230,
+      "timeLabel": "37:10",
+      "text": "¿Por qué no podés?",
+      "hy": "Ինչո՞ւ չեմ կարող։"
+    },
+    {
+      "id": "cap20-line-704",
+      "start": 2231,
+      "timeLabel": "37:11",
+      "text": "¡Popas!",
+      "hy": "Դե տե՛ս։"
+    },
+    {
+      "id": "cap20-line-705",
+      "start": 2234,
+      "timeLabel": "37:14",
+      "text": "¡Adiós!",
+      "hy": "Ցտեսությո՛ւն։"
+    },
+    {
+      "id": "cap20-line-706",
+      "start": 2241,
+      "timeLabel": "37:21",
+      "text": "Lo que te dije Pablo, no te lo dije porque vos seas empleada.",
+      "hy": "Այն, ինչ ասացի Պաբլոյին, չասացի այն պատճառով, որ դու աշխատակից ես։"
+    },
+    {
+      "id": "cap20-line-707",
+      "start": 2244,
+      "timeLabel": "37:24",
+      "text": "Pero yo no te quiso afantar, te lo dije porque...",
+      "hy": "Ես չուզեցի քեզ վիրավորել, ասացի որովհետև..."
+    },
+    {
+      "id": "cap20-line-708",
+      "start": 2248,
+      "timeLabel": "37:28",
+      "text": "Porque a mí me pasa que...",
+      "hy": "որովհետև ինձ թվում է, որ..."
+    },
+    {
+      "id": "cap20-line-709",
+      "start": 2251,
+      "timeLabel": "37:31",
+      "text": "Que una mujer no puede estar feliz al lado de una persona que vive en Cerrada todo el día.",
+      "hy": "որ կինը չի կարող երջանիկ լինել մի մարդու կողքին, ով ամբողջ օրը փակված է ապրում։"
+    },
+    {
+      "id": "cap20-line-710",
+      "start": 2255,
+      "timeLabel": "37:35",
+      "text": "Eso me pasa.",
+      "hy": "Ահա թե ինչ եմ մտածում։"
+    },
+    {
+      "id": "cap20-line-711",
+      "start": 2257,
+      "timeLabel": "37:37",
+      "text": "Hay mujeres que se casan con presos y un felice toda la vida.",
+      "hy": "Կանայք կան, որ բանտարկյալների հետ են ամուսնանում ու ամբողջ կյանքը երջանիկ են լինում։"
+    },
+    {
+      "id": "cap20-line-712",
+      "start": 2261,
+      "timeLabel": "37:41",
+      "text": "Pero es distinto, porque...",
+      "hy": "Բայց դա ուրիշ է, որովհետև..."
+    },
+    {
+      "id": "cap20-line-713",
+      "start": 2265,
+      "timeLabel": "37:45",
+      "text": "Pablo está en una silla de arruedas.",
+      "hy": "Պաբլոն անվասայլակի մեջ է։"
+    },
+    {
+      "id": "cap20-line-714",
+      "start": 2267,
+      "timeLabel": "37:47",
+      "text": "Pero sigue siendo un hombre.",
+      "hy": "Բայց շարունակում է տղամարդ մնալ։"
+    },
+    {
+      "id": "cap20-line-715",
+      "start": 2269,
+      "timeLabel": "37:49",
+      "text": "¿Usted sabe lo que es ser un hombre?",
+      "hy": "Դուք գիտե՞ք՝ ինչ է նշանակում տղամարդ լինել։"
+    },
+    {
+      "id": "cap20-line-716",
+      "start": 2271,
+      "timeLabel": "37:51",
+      "text": "Sé lo que es un hombre, mirá, te quiero decir otra cosa.",
+      "hy": "Գիտեմ՝ ինչ է տղամարդ լինելը, լսիր, քեզ ուրիշ բան եմ ուզում ասել։"
+    },
+    {
+      "id": "cap20-line-717",
+      "start": 2272,
+      "timeLabel": "37:52",
+      "text": "Hay chabones que andan arriba de sus dos patas, pero no son hombres.",
+      "hy": "Տղաներ կան, որ իրենց երկու ոտքի վրա են քայլում, բայց տղամարդ չեն։"
+    },
+    {
+      "id": "cap20-line-718",
+      "start": 2277,
+      "timeLabel": "37:57",
+      "text": "Son solamente esos chabones, así que usted no se preocupa por Pablo.",
+      "hy": "Նրանք ընդամենը սովորական տղաներ են, այնպես որ Պաբլոյի համար մի՛ անհանգստացեք։"
+    },
+    {
+      "id": "cap20-line-719",
+      "start": 2280,
+      "timeLabel": "38:00",
+      "text": "Me preocupa por vos.",
+      "hy": "Քեզ համար եմ անհանգստանում։"
+    },
+    {
+      "id": "cap20-line-720",
+      "start": 2281,
+      "timeLabel": "38:01",
+      "text": "¿Qué?",
+      "hy": "Ի՞նչ։"
+    }
+  ]
+}

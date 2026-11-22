@@ -1,0 +1,6 @@
+{
+  "name": "Muñeca Brava — Aprende español | Capítulos 18, 19 y 20",
+  "description": "Aplicación web educativa interactiva para aprender español argentino y rioplatense con traducción al armenio oriental a través de los capítulos 18, 19 y 20 de Muñeca Brava.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
